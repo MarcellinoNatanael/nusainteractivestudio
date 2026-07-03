@@ -1,0 +1,208 @@
+/* ===== HOME.CSS ===== */
+
+/* ---- HERO ---- */
+.hero-section {
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.hero-video {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover; z-index: 0;
+}
+.hero-overlay {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.65); z-index: 1;
+}
+.hero-content {
+  position: relative; z-index: 2;
+  text-align: center;
+  padding: 0 24px;
+  max-width: 680px;
+}
+.hero-logo {
+  width: 350px; height: 350px;
+  margin: 0 auto 28px;
+}
+.hero-logo img {
+  width: 100%; height: 100%;
+  object-fit: contain;
+}
+.hero-title {
+  font-size: 48px;
+  font-style: normal;
+  line-height: 1.15;
+  letter-spacing: .05em;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.hero-tagline {
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1.9;
+  color: rgba(255,255,255,.85);
+  margin-bottom: 36px;
+}
+.btn-cta { font-size: 15px; padding: 14px 40px; }
+
+/* ---- PROJECTS CAROUSEL ---- */
+.projects-section { background: #111111; }
+.carousel-wrapper { display: flex; align-items: center; gap: 16px; }
+.carousel-track-outer { overflow: hidden; flex: 1; }
+.carousel-track {
+  display: flex;
+  gap: 4px;
+  transition: transform .42s cubic-bezier(.4,0,.2,1);
+}
+.carousel-slide { flex: 0 0 calc(50% - 2px); }
+.project-card {
+  position: relative;
+  background: #1a1a1a;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+}
+.project-card img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform .4s;
+}
+.project-card:hover img { transform: scale(1.05); }
+.project-overlay {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  padding: 20px;
+  background: linear-gradient(transparent, rgba(0,0,0,.85));
+}
+.project-title {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 16px;
+  font-style: normal;
+  color: #fff;
+}
+
+.carousel-arrow {
+  background: rgba(0,0,0,.55);
+  border: 1px solid rgba(255,255,255,.2);
+  color: #fff; font-size: 20px;
+  width: 44px; height: 44px;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; flex-shrink: 0;
+  border-radius: 0;
+  transition: background .2s, border-color .2s;
+}
+.carousel-arrow:hover    { background: #8B0000; border-color: #8B0000; }
+.carousel-arrow:disabled { opacity: .3; cursor: default; }
+.carousel-dots { display: flex; justify-content: center; gap: 8px; margin-top: 20px; }
+.carousel-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.25);
+  cursor: pointer; border: none;
+  transition: background .2s;
+}
+.carousel-dot.active { background: #fff; }
+
+/* ---- NEWS GRID ---- */
+.news-section { background: #111111; }
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+}
+.news-card {
+  position: relative;
+  overflow: hidden;
+  background: #1a1a1a;
+  aspect-ratio: 4/3;
+  display: block;
+}
+.news-card img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s; }
+.news-card:hover img { transform: scale(1.06); }
+.news-hover {
+  position: absolute; inset: 0;
+  background: rgba(139,0,0,.88);
+  display: flex; flex-direction: column;
+  justify-content: flex-end;
+  padding: 22px;
+  opacity: 0; transition: opacity .3s;
+}
+.news-card:hover .news-hover { opacity: 1; }
+.news-hover h3 {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 15px;
+  font-style: normal;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.news-hover p {
+  font-size: 13px;
+  font-style: normal;
+  color: rgba(255,255,255,.85);
+  line-height: 1.5;
+}
+
+/* ---- GALLERY ---- */
+.gallery-section { background: #111111; }
+.gallery-grid { display: grid; grid-template-columns: 3fr 2fr; gap: 4px; min-height: 380px; }
+.gallery-large { background: #1a1a1a; overflow: hidden; }
+.gallery-large img { width: 100%; height: 100%; object-fit: cover; }
+.gallery-small-col { display: flex; flex-direction: column; gap: 4px; }
+.gallery-small { background: #1a1a1a; flex: 1; overflow: hidden; }
+.gallery-small img { width: 100%; height: 100%; object-fit: cover; }
+
+/* ---- CAREERS PREVIEW ---- */
+.careers-section { background: #111111; }
+.careers-sub {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 22px;
+  font-style: normal;
+  text-align: center;
+  margin-bottom: 36px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .carousel-slide { flex: 0 0 100%; }
+  .news-grid { grid-template-columns: repeat(2,1fr); }
+}
+@media (max-width: 600px) {
+  .hero-title { font-size: 32px; }
+  .news-grid { grid-template-columns: 1fr; }
+  .gallery-grid { grid-template-columns: 1fr; }
+  .gallery-small-col { flex-direction: row; }
+}
+
+.social-list {
+  display: flex;
+  flex-direction: column; /* atau row kalau mau sejajar horizontal semua item */
+  gap: 12px;
+  list-style: none;
+}
+
+.social-list a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon {
+  font-size: 20px;
+  width: 24px; /* biar semua icon punya lebar sama, teks jadi rata */
+  text-align: center;
+}
+
+.social-list a:hover {
+  color: #880000; /* opsional, warna hover */
+}
+
+.social-list a span {
+  font-family: "Caesar Dressing", cursive;
+}

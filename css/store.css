@@ -1,0 +1,133 @@
+/* ===== STORE.CSS ===== */
+.store-section { background: #111111; }
+.store-grid { display: flex; flex-direction: column; gap: 60px; }
+
+.store-card {
+  background: #000;
+  border: 1px solid rgba(255,255,255,.07);
+  overflow: hidden;
+}
+
+.store-card-img {
+  position: relative;
+  aspect-ratio: 21/9;
+  background: #1a1a1a;
+  overflow: hidden;
+}
+.store-card-img img { width:100%;height:100%;object-fit:cover; }
+.store-img-placeholder {
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 32px; letter-spacing: .1em;
+  color: rgba(255,255,255,.12);
+  text-align: center;
+}
+
+.store-card-body { padding: 36px 40px; }
+.store-game-name {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 30px; margin-bottom: 8px; letter-spacing: .04em;
+}
+.store-release  { font-size: 14px; color: rgba(255,255,255,.45); margin-bottom: 4px; }
+.store-developer { font-size: 13px; color: rgba(255,255,255,.35); margin-bottom: 16px; font-style: italic; }
+
+.store-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+.tag {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 11px; letter-spacing: .06em;
+  padding: 4px 12px;
+  border: 1px solid rgba(255,255,255,.2);
+  color: rgba(255,255,255,.55);
+}
+.store-desc {
+  font-size: 15px; line-height: 1.8; color: rgba(255,255,255,.8);
+  margin-bottom: 28px;
+  max-width: 720px;
+}
+
+/* Specs */
+.store-specs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  margin-bottom: 28px;
+  padding: 24px;
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.07);
+}
+.spec-heading {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 12px; letter-spacing: .08em;
+  color: rgba(255,255,255,.5);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+.spec-list { font-size: 14px; }
+.spec-list li {
+  display: flex; gap: 8px;
+  margin-bottom: 6px;
+  color: rgba(255,255,255,.7);
+  line-height: 1.5;
+}
+.spec-list li span {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 14px; letter-spacing: .04em;
+  color: rgba(255,255,255,.4);
+  min-width: 56px;
+  flex-shrink: 0;
+}
+
+/* Screenshots */
+.store-screenshots {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 4px;
+  margin-bottom: 28px;
+}
+.screenshot {
+  background: #1a1a1a;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+.screenshot img { width:100%;height:100%;object-fit:cover; }
+
+.store-actions { margin-bottom: 10px; }
+.btn-steam { font-size: 18px; padding: 13px 32px; }
+.store-note { font-size: 18px; color: rgba(255,255,255,.3); font-style: italic; }
+
+@media (max-width: 768px) {
+  .store-card-body { padding: 24px 20px; }
+  .store-specs { grid-template-columns: 1fr; }
+  .store-screenshots { grid-template-columns: repeat(2,1fr); }
+  .store-game-name { font-size: 22px; }
+}
+
+.social-list {
+  display: flex;
+  flex-direction: column; /* atau row kalau mau sejajar horizontal semua item */
+  gap: 12px;
+  list-style: none;
+}
+
+.social-list a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon {
+  font-size: 20px;
+  width: 24px; /* biar semua icon punya lebar sama, teks jadi rata */
+  text-align: center;
+}
+
+.social-list a:hover {
+  color: #880000; /* opsional, warna hover */
+}
+
+.social-list a span {
+  font-family: "Caesar Dressing", cursive;
+}

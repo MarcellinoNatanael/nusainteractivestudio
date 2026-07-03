@@ -1,0 +1,93 @@
+/* ===== PROJECTS.CSS ===== */
+
+.completed-section { background: #111111; }
+.projects-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 4px; }
+.project-item {
+  position: relative; background: #1a1a1a;
+  overflow: hidden; aspect-ratio: 16/9;
+}
+.project-item img { width:100%; height:100%; object-fit:cover; transition:transform .4s; }
+.project-item:hover img { transform: scale(1.05); }
+.project-item-overlay {
+  position: absolute; inset: 0;
+  background: rgba(139,0,0,.9);
+  display: flex; flex-direction: column;
+  justify-content: center; align-items: center;
+  text-align: center; padding: 28px;
+  opacity: 0; transition: opacity .3s;
+}
+.project-item:hover .project-item-overlay { opacity: 1; }
+.project-item-overlay h3 { font-size: 20px; font-style: normal; margin-bottom: 10px; }
+.project-item-overlay p  { font-size: 13px; font-style: normal; margin-bottom: 20px; opacity: .85; line-height: 1.6; }
+
+.upcoming-section { background: #000; }
+
+.upcoming-card {
+  position: relative;
+  overflow: hidden;
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+}
+.upcoming-card img {
+  width: 100%;
+  display: block;
+}
+.upcoming-card .upcoming-desc {
+  padding: 16px;
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #ddd;
+}
+
+.upcoming-overlay {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.55);
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 16px;
+}
+.upcoming-overlay h3 { font-size: 28px; font-style: normal; }
+.upcoming-badge {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 14px; font-style: normal;
+  letter-spacing: .12em;
+  border: 1px solid rgba(255,255,255,.4);
+  padding: 8px 24px;
+  color: rgba(255,255,255,.7);
+}
+
+@media (max-width:768px) {
+  .projects-grid { grid-template-columns: 1fr; }
+}
+
+.social-list {
+  display: flex;
+  flex-direction: column; /* atau row kalau mau sejajar horizontal semua item */
+  gap: 12px;
+  list-style: none;
+}
+
+.social-list a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon {
+  font-size: 20px;
+  width: 24px; /* biar semua icon punya lebar sama, teks jadi rata */
+  text-align: center;
+}
+
+.social-list a:hover {
+  color: #880000; /* opsional, warna hover */
+}
+
+.social-list a span {
+  font-family: "Caesar Dressing", cursive;
+}

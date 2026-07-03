@@ -1,0 +1,40 @@
+/* ===== CAREERS.CSS ===== */
+
+.careers-main-section { background: #111111; }
+
+.careers-main-section .section-title { margin-bottom: 36px; }
+
+@media (max-width: 768px) {
+  .careers-table th,
+  .careers-table td { padding: 12px 8px; font-size: 13px; font-style: normal; }
+  .division-tabs    { gap: 12px; }
+}
+
+.social-list {
+  display: flex;
+  flex-direction: column; /* atau row kalau mau sejajar horizontal semua item */
+  gap: 12px;
+  list-style: none;
+}
+
+.social-list a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon {
+  font-size: 20px;
+  width: 24px; /* biar semua icon punya lebar sama, teks jadi rata */
+  text-align: center;
+}
+
+.social-list a:hover {
+  color: #880000; /* opsional, warna hover */
+}
+
+.social-list a span {
+  font-family: "Caesar Dressing", cursive;
+}

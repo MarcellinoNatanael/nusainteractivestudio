@@ -1,0 +1,101 @@
+/* ===== NEWS.CSS ===== */
+
+.news-list-section { background: #111111; }
+
+/* Bento grid sesuai mockup Figma */
+.news-bento {
+  display: grid;
+  grid-template-columns: 52% 48%;
+  grid-template-rows: 220px 220px 220px;
+  gap: 4px;
+}
+
+.news-bento-card {
+  position: relative;
+  background: #1a1a1a;
+  overflow: hidden;
+  display: block;
+}
+.news-bento-card img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform .4s;
+}
+.news-bento-card:hover img { transform: scale(1.05); }
+
+.news-hover-overlay {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.78);
+  display: flex; flex-direction: column;
+  justify-content: flex-end;
+  padding: 24px;
+  opacity: 0;
+  transition: opacity .3s;
+}
+.news-bento-card:hover .news-hover-overlay { opacity: 1; }
+.news-date {
+  font-size: 12px;
+  font-style: normal;
+  color: rgba(255,255,255,.45);
+  margin-bottom: 6px;
+}
+.news-hover-overlay h3 {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 16px;
+  font-style: normal;
+  color: #fff;
+  margin-bottom: 8px;
+}
+.news-hover-overlay p {
+  font-size: 13px;
+  font-style: normal;
+  color: rgba(255,255,255,.8);
+  line-height: 1.55;
+}
+
+/* Grid placements */
+.card-left-tall    { grid-column: 1; grid-row: 1 / 3; }
+.card-right-top    { grid-column: 2; grid-row: 1; }
+.card-right-bot    { grid-column: 2; grid-row: 2; }
+.card-bottom-left  { grid-column: 1; grid-row: 3; }
+.card-bottom-right { grid-column: 2; grid-row: 3; }
+
+@media (max-width: 768px) {
+  .news-bento {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, 220px);
+  }
+  .card-left-tall, .card-right-top, .card-right-bot,
+  .card-bottom-left, .card-bottom-right {
+    grid-column: 1; grid-row: auto;
+  }
+}
+
+.social-list {
+  display: flex;
+  flex-direction: column; /* atau row kalau mau sejajar horizontal semua item */
+  gap: 12px;
+  list-style: none;
+}
+
+.social-list a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.social-icon {
+  font-size: 20px;
+  width: 24px; /* biar semua icon punya lebar sama, teks jadi rata */
+  text-align: center;
+}
+
+.social-list a:hover {
+  color: #880000; /* opsional, warna hover */
+}
+
+.social-list a span {
+  font-family: "Caesar Dressing", cursive;
+}

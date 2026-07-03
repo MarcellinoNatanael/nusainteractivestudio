@@ -1,0 +1,235 @@
+/* =========================================================
+   LEGAL.CSS — Nusa Interactive Studio
+   Shared styles for Terms & Conditions and Privacy Policy
+   ========================================================= */
+
+/* ---- Page Hero (small banner, not full hero like homepage) ---- */
+.legal-hero {
+  position: relative;
+  padding: 140px 24px 60px;
+  background: #111111;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: center;
+}
+
+.legal-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at top, rgba(139, 0, 0, 0.18), transparent 60%);
+  pointer-events: none;
+}
+
+.legal-eyebrow {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  font-size: 12px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #8B0000;
+  margin-bottom: 14px;
+}
+
+.legal-hero h1 {
+  position: relative;
+  z-index: 1;
+  font-family: 'Caesar Dressing', cursive;
+  font-style: normal;
+  font-size: 34px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 14px;
+}
+
+.legal-updated {
+  position: relative;
+  z-index: 1;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* ---- Layout: sticky TOC sidebar + content ---- */
+.legal-body {
+  background: #111111;
+  padding: 56px 24px 100px;
+}
+
+.legal-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 56px;
+  align-items: start;
+}
+
+/* ---- TOC Sidebar ---- */
+.legal-toc {
+  position: sticky;
+  top: 100px;
+  background: #1a1a1a;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 24px 22px;
+}
+
+.legal-toc h4 {
+  font-family: 'Caesar Dressing', cursive;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.legal-toc ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.legal-toc a {
+  display: block;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.55);
+  text-decoration: none;
+  padding: 6px 0 6px 12px;
+  border-left: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.legal-toc a:hover {
+  color: #fff;
+}
+
+.legal-toc a.active {
+  color: #fff;
+  border-left-color: #8B0000;
+}
+
+/* ---- Content ---- */
+.legal-content {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 15px;
+  line-height: 1.85;
+}
+
+.legal-content section {
+  margin-bottom: 44px;
+  scroll-margin-top: 100px;
+}
+
+.legal-content h2 {
+  font-family: 'Caesar Dressing', cursive;
+  font-style: normal;
+  font-size: 19px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.legal-content h2 .num {
+  color: #8B0000;
+  margin-right: 10px;
+}
+
+.legal-content p {
+  margin-bottom: 14px;
+}
+
+.legal-content ul,
+.legal-content ol {
+  margin: 0 0 14px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.legal-content strong {
+  color: #fff;
+  font-weight: 600;
+}
+
+.legal-content a.inline-link {
+  color: #c94b4b;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.legal-note {
+  background: #1a1a1a;
+  border-left: 3px solid #8B0000;
+  padding: 16px 20px;
+  font-size: 13.5px;
+  color: rgba(255, 255, 255, 0.65);
+  margin-bottom: 40px;
+}
+
+/* ---- Back to top ---- */
+.legal-top-btn {
+  position: fixed;
+  right: 28px;
+  bottom: 28px;
+  width: 46px;
+  height: 46px;
+  border-radius: 0;
+  background: #8B0000;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.25s, transform 0.25s, background 0.2s;
+  z-index: 999;
+}
+
+.legal-top-btn.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.legal-top-btn:hover {
+  background: #a80000;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 900px) {
+  .legal-wrapper {
+    grid-template-columns: 1fr;
+  }
+
+  .legal-toc {
+    position: relative;
+    top: 0;
+  }
+
+  .legal-hero {
+    padding: 120px 20px 44px;
+  }
+
+  .legal-hero h1 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 600px) {
+  .legal-body {
+    padding: 40px 16px 70px;
+  }
+
+  .legal-content {
+    font-size: 14px;
+  }
+}

@@ -109,44 +109,29 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  gap: 8px;
+  gap: 10px;
   padding: 22px;
-  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 38%, rgba(0,0,0,.62) 70%, rgba(0,0,0,.93) 100%);
+  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,.15) 45%, rgba(0,0,0,.88) 100%);
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity .3s, transform .3s;
 }
-.project-tags { display: flex; flex-wrap: wrap; gap: 8px; }
-.project-tag {
-  display: inline-flex; align-items: center; gap: 6px;
-  font-size: 10px;
-  letter-spacing: .06em;
-  text-transform: uppercase;
-  color: rgba(255,255,255,.8);
-  border: 1px solid rgba(255,255,255,.3);
-  background: rgba(255,255,255,.05);
-  padding: 4px 10px;
-}
-.project-tag i { font-size: 10px; color: rgba(255,255,255,.6); }
-.project-title {
-  font-family: 'Caesar Dressing', cursive;
-  font-size: 20px;
-  font-style: normal;
-  letter-spacing: .04em;
-  text-transform: uppercase;
-  color: #fff;
+.project-card:hover .project-overlay,
+.project-card:focus-within .project-overlay {
+  opacity: 1;
+  transform: translateY(0);
 }
 .project-desc {
-  font-size: 13px;
-  line-height: 1.6;
-  color: rgba(255,255,255,.7);
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  -webkit-box-orient: vertical;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(255,255,255,.85);
+  white-space: nowrap;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 .btn-project-view {
   display: inline-flex; align-items: center; gap: 7px;
   width: fit-content;
-  margin-top: 2px;
   font-family: 'Caesar Dressing', cursive;
   font-size: 12px;
   font-style: normal;
@@ -155,14 +140,14 @@
   color: #fff;
   padding-bottom: 3px;
   border-bottom: 1px solid rgba(255,255,255,.4);
-  transition: color .2s, border-color .2s, gap .2s;
+  transition: color .2s, border-color .2s;
 }
 .btn-project-view i { font-size: 11px; transition: transform .2s; }
-.project-card:hover .btn-project-view {
+.btn-project-view:hover {
   color: #ff4d4d;
   border-color: #ff4d4d;
 }
-.project-card:hover .btn-project-view i { transform: translateX(3px); }
+.btn-project-view:hover i { transform: translateX(3px); }
 
 .carousel-arrow {
   background: rgba(0,0,0,.55);
@@ -250,6 +235,8 @@
 @media (max-width: 900px) {
   .carousel-slide { flex: 0 0 100%; }
   .news-grid { grid-template-columns: repeat(2,1fr); }
+  /* touch devices have no hover — keep the info bar visible */
+  .project-overlay { opacity: 1; transform: none; }
 }
 @media (max-width: 600px) {
   .hero-title { font-size: 32px; }
@@ -257,7 +244,6 @@
   .gallery-grid { grid-template-columns: 1fr; }
   .gallery-small-col { flex-direction: row; }
   .project-overlay { padding: 16px; gap: 6px; }
-  .project-title { font-size: 17px; }
   .project-desc { font-size: 12px; }
 }
 

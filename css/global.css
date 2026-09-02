@@ -184,6 +184,38 @@ h3                   { font-size: 20px; }
 .btn-steam:hover { background: #6b0000; border-color: #6b0000; }
 
 /* ============================================================
+   CAROUSEL (shared: Our Projects, Division, ...)
+   ============================================================ */
+.carousel-wrapper { display: flex; align-items: center; gap: 16px; }
+.carousel-track-outer { overflow: hidden; flex: 1; }
+.carousel-track {
+  display: flex;
+  gap: 4px;
+  transition: transform .42s cubic-bezier(.4,0,.2,1);
+}
+.carousel-arrow {
+  background: rgba(0,0,0,.55);
+  border: 1px solid rgba(255,255,255,.2);
+  color: #fff; font-size: 20px;
+  width: 44px; height: 44px;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; flex-shrink: 0;
+  border-radius: 0;
+  transition: background .2s, border-color .2s;
+}
+.carousel-arrow:hover    { background: #8B0000; border-color: #8B0000; }
+.carousel-arrow:disabled { opacity: .3; cursor: default; }
+.carousel-dots { display: flex; justify-content: center; gap: 8px; margin-top: 20px; }
+.carousel-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.25);
+  cursor: pointer; border: none;
+  transition: background .2s;
+}
+.carousel-dot.active { background: #fff; }
+
+/* ============================================================
    FOOTER
    ============================================================ */
 .nis-footer {

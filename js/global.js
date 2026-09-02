@@ -14,7 +14,7 @@
       'nav-news':        'News',
       'nav-careers':     'Careers',
       'nav-store':       'Store',
-      'hero-tagline':    'We are an indie game studio that focuses on developing horror games by bringing strong local culture and inherent folklore to target a wider market of horror players.',
+      'hero-tagline':    'Nusa Interactive Studio is a home-based indie game studio focused on developing horror games that draw upon local culture, myths, folklore, and urban legends.',
       'btn-explore':     'Explore More',
       'sec-projects':    'Our Projects',
       'proj-sub':        'From a critically-loved release to the next nightmare in the works — every project carries a piece of Indonesian folklore.',
@@ -42,8 +42,8 @@
       'foot-privacy':    'Privacy Policy',
       'foot-contact':    'Contact',
       /* About */
-      'about-p1':        'Nusa Interactive Studio is an independent game development studio focusing on the horror and psychological horror genres, based on local Indonesian culture. Founded by Marcellino Natanael, the studio began its journey as a home project driven by a passion to elevate Indonesian narratives and urban legends to the global gaming industry.',
-      'about-p2':        'We believe that the best horror atmospheres are born from cultural affinity and strong psychological tension. By integrating historical values, traditional architecture, and local mythology into robust gameplay mechanics, Nusa Interactive Studio is committed to delivering immersive, competitive, and internationally recognized gaming experiences without losing our cultural roots.',
+      'about-p1':        'Nusa Interactive Studio is an independent game development studio focused on the horror and psychological horror genres, drawing inspiration from Indonesian culture, myths, folklore, and urban legends. Founded by Marcellino Natanael, the studio began as a home-grown project driven by the desire to bring Indonesian narratives and urban legends to the global gaming industry.',
+      'about-p2':        'We believe that the most compelling horror atmospheres arise from cultural resonance and intense psychological tension. By integrating historical elements, traditional architecture, and local mythology into robust gameplay mechanics, Nusa Interactive Studio is committed to delivering immersive, competitive, and internationally acclaimed gaming experiences without compromising our cultural identity.',
       'sec-vm':          'Vision & Mission',
       'sec-corevals':    'Core Values',
       'sec-division':    'Division',
@@ -62,12 +62,12 @@
       'store-note':      'Download the game through the gamejolt platform.',
       /*vision and Mission*/
       'vm-vision-title': 'Vision',
-      'vm-vision-text':  'To be a pioneering indie game studio committed to highlighting the richness of local culture through technological innovation with modern visualization.',
+      'vm-vision-text':  'To become a game studio committed to highlighting and preserving the culture, myths, folklore, and urban legends of the Indonesian archipelago, and introducing them to the world through interactive media.',
       'vm-mission-title':'Mission',
-      'vm-mission-p1': 'Creating a work that can be enjoyed, not just played.',
-      'vm-mission-p2': 'Exploring and Embracing Local Culture to introduce it to the world.',
-      'vm-mission-p3': 'Encouraging Technological Innovation in Game Development.',
-      'vm-mission-p4': 'Realizing a Visual Aesthetic with Strong Character.',
+      'vm-mission-p1': 'Creating works that can be enjoyed, not merely played.',
+      'vm-mission-p2': 'Exploring and highlighting local culture to introduce it to the world.',
+      'vm-mission-p3': 'Driving technological innovation in game development.',
+      'vm-mission-p4': 'Realizing a visual aesthetic with a strong, distinctive character.',
       /* Core Value */
       'cv-n-title': 'Narrative',
       'cv-n-text': 'For us, story is the heart of every game we create. We dont just create a plot, but also build a world and atmosphere that can make players feel fear, curiosity, or even emotion from the beginning of the game until the end of the story we present.',
@@ -219,7 +219,7 @@
       'nav-news':        'Berita',
       'nav-careers':     'Karir',
       'nav-store':       'Toko',
-      'hero-tagline':    'Kami adalah studio game indie yang berfokus pada pengembangan game horor dengan membawa budaya lokal yang kuat dan cerita rakyat untuk menjangkau pasar pemain horor yang lebih luas.',
+      'hero-tagline':    'Nusa Interactive Studio adalah studio game indie rumahan yang berfokus pada pengembangan game horor dengan mengangkat budaya, mitos, cerita rakyat, dan urban legend lokal.',
       'btn-explore':     'Jelajahi',
       'sec-projects':    'Proyek Kami',
       'proj-sub':        'Dari rilis yang mendapat sambutan hangat hingga mimpi buruk berikutnya yang sedang digarap — setiap proyek membawa sepotong cerita rakyat Indonesia.',
@@ -247,8 +247,8 @@
       'foot-privacy':    'Kebijakan Privasi',
       'foot-contact':    'Kontak',
       /* About */
-      'about-p1':        'Nusa Interactive Studio adalah studio pengembang game independen yang berfokus pada genre horor dan horor psikologis, berdasarkan budaya lokal Indonesia. Didirikan oleh Marcellino Natanael, studio ini memulai perjalanannya sebagai proyek rumahan yang didorong oleh hasrat untuk mengangkat narasi dan legenda urban Indonesia ke industri game global.',
-      'about-p2':        'Kami percaya bahwa atmosfer horor terbaik lahir dari kedekatan budaya dan ketegangan psikologis yang kuat. Dengan mengintegrasikan nilai-nilai sejarah, arsitektur tradisional, dan mitologi lokal ke dalam mekanisme permainan yang kuat, Nusa Interactive Studio berkomitmen untuk menghadirkan pengalaman bermain game yang imersif, kompetitif, dan diakui secara internasional tanpa kehilangan akar budaya kami.',
+      'about-p1':        'Nusa Interactive Studio adalah studio pengembang game independen yang berfokus pada genre horor dan horor psikologis, berdasarkan budaya, mitos, cerita rakyat, dan urban legend lokal Indonesia. Didirikan oleh Marcellino Natanael, studio ini memulai perjalanannya sebagai proyek rumahan yang didorong oleh keinginan untuk mengangkat narasi dan legenda urban Indonesia ke industri game global.',
+      'about-p2':        'Kami percaya bahwa atmosfer horor terbaik lahir dari kedekatan budaya dan ketegangan psikologis yang kuat. Dengan mengintegrasikan nilai-nilai sejarah, arsitektur tradisional, dan mitologi lokal ke dalam mekanisme permainan yang kuat, Nusa Interactive Studio berkomitmen untuk menghadirkan pengalaman bermain game yang imersif, kompetitif, dan diakui secara internasional tanpa kehilangan identitas budaya kami.',
       'sec-vm':          'Visi & Misi',
       'sec-corevals':    'Nilai Inti',
       'sec-division':    'Divisi',
@@ -267,12 +267,12 @@
       'store-note':      'Unduh game melalui platform gamejolt',
       /* Vision and Mission*/
       'vm-vision-title': 'Visi',
-      'vm-vision-text':  'Menjadi pionir sebagai studio game indie yang berkomitmen mengangkat kekayaan budaya lokal melalui inovasi teknologi dengan visualisasi modern',
+      'vm-vision-text':  'Menjadi studio game yang berkomitmen mengangkat dan melestarikan budaya, mitos, cerita rakyat, dan urban legend Nusantara, serta memperkenalkannya kepada dunia melalui media interaktif.',
       'vm-mission-title':'Misi',
-      'vm-mission-p1':   'Menciptakan sebuah karya yang dapat di nikmati, dan bukan sekedar dimainkan.',
-      'vm-mission-p2':   'Mengeksplorasi dan Mengangkat Budaya Lokal untuk diperkenalkan ke seluruh dunia',
-      'vm-mission-p3':   'Mendorong Inovasi Teknologi dalam Pengembangan Game.',
-      'vm-mission-p4':   'Mewujudkan Estetika Visual yang Berkarakter Kuat',
+      'vm-mission-p1':   'Menciptakan karya yang dapat dinikmati, bukan sekadar dimainkan.',
+      'vm-mission-p2':   'Mengeksplorasi dan mengangkat budaya lokal untuk diperkenalkan ke seluruh dunia.',
+      'vm-mission-p3':   'Mendorong inovasi teknologi dalam pengembangan game.',
+      'vm-mission-p4':   'Mewujudkan estetika visual yang berkarakter kuat.',
       /* Core Values */
       'cv-n-title': 'Narrative (Cerita)',
       'cv-n-text':  'Bagi kami, cerita adalah jantung dari setiap game yang kami buat. Kami tidak sekadar menyusun alur, tapi membangun dunia dan atmosfer yang bisa membuat pemain merasakan ketakutan, penasaran, atau bahkan merasakan emosional sejak awal permainan hingga akhir dari cerita yang kami sajikan.',
@@ -480,6 +480,84 @@
 
     // Apply on load
     applyLang(currentLang);
+  });
+
+  /* ---- Generic carousel (arrows + dots + swipe) ---- */
+  function initCarousel(wrapper) {
+    var track    = wrapper.querySelector('.carousel-track');
+    var prev     = wrapper.querySelector('.carousel-prev');
+    var next     = wrapper.querySelector('.carousel-next');
+    var scope    = wrapper.closest('.container') || wrapper.parentElement;
+    var dotsWrap = scope.querySelector('.carousel-dots');
+    if (!track) return;
+
+    var slides     = track.querySelectorAll('.carousel-slide');
+    var total      = slides.length;
+    var perDesktop = parseInt(wrapper.dataset.perView, 10) || 2;
+    var perMobile  = parseInt(wrapper.dataset.perViewMobile, 10) || 1;
+    var breakpoint = parseInt(wrapper.dataset.breakpoint, 10) || 900;
+    var current    = 0;
+
+    function perView() { return window.innerWidth < breakpoint ? perMobile : perDesktop; }
+    function maxIdx()  { return Math.max(0, total - perView()); }
+
+    function buildDots() {
+      if (!dotsWrap) return;
+      dotsWrap.innerHTML = '';
+      for (var i = 0; i <= maxIdx(); i++) {
+        (function (idx) {
+          var d = document.createElement('button');
+          d.className = 'carousel-dot' + (idx === current ? ' active' : '');
+          d.setAttribute('aria-label', 'Slide ' + (idx + 1));
+          d.addEventListener('click', function () { goTo(idx); });
+          dotsWrap.appendChild(d);
+        })(i);
+      }
+    }
+
+    function updateUI() {
+      var sw = slides[0].offsetWidth + 4; // 4 = gap
+      track.style.transform = 'translateX(-' + (current * sw) + 'px)';
+      if (dotsWrap) {
+        dotsWrap.querySelectorAll('.carousel-dot').forEach(function (d, i) {
+          d.classList.toggle('active', i === current);
+        });
+      }
+      if (prev) prev.disabled = current === 0;
+      if (next) next.disabled = current >= maxIdx();
+    }
+
+    function goTo(i) {
+      current = Math.max(0, Math.min(i, maxIdx()));
+      updateUI();
+    }
+
+    if (prev) prev.addEventListener('click', function () { goTo(current - 1); });
+    if (next) next.addEventListener('click', function () { goTo(current + 1); });
+
+    buildDots();
+    goTo(0);
+
+    var rTimer;
+    window.addEventListener('resize', function () {
+      clearTimeout(rTimer);
+      rTimer = setTimeout(function () {
+        current = Math.min(current, maxIdx());
+        buildDots();
+        goTo(current);
+      }, 200);
+    });
+
+    var tx = 0;
+    track.addEventListener('touchstart', function (e) { tx = e.changedTouches[0].clientX; }, { passive: true });
+    track.addEventListener('touchend', function (e) {
+      var diff = tx - e.changedTouches[0].clientX;
+      if (Math.abs(diff) > 50) diff > 0 ? goTo(current + 1) : goTo(current - 1);
+    }, { passive: true });
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.carousel-wrapper').forEach(initCarousel);
   });
 
 })();

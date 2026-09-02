@@ -44,6 +44,7 @@
       /* About */
       'about-p1':        'Nusa Interactive Studio is an independent game development studio focused on the horror and psychological horror genres, drawing inspiration from Indonesian culture, myths, folklore, and urban legends. Founded by Marcellino Natanael, the studio began as a home-grown project driven by the desire to bring Indonesian narratives and urban legends to the global gaming industry.',
       'about-p2':        'We believe that the most compelling horror atmospheres arise from cultural resonance and intense psychological tension. By integrating historical elements, traditional architecture, and local mythology into robust gameplay mechanics, Nusa Interactive Studio is committed to delivering immersive, competitive, and internationally acclaimed gaming experiences without compromising our cultural identity.',
+      'founder-title':   'Founder & CEO',
       'sec-vm':          'Vision & Mission',
       'sec-corevals':    'Core Values',
       'sec-division':    'Division',
@@ -249,6 +250,7 @@
       /* About */
       'about-p1':        'Nusa Interactive Studio adalah studio pengembang game independen yang berfokus pada genre horor dan horor psikologis, berdasarkan budaya, mitos, cerita rakyat, dan urban legend lokal Indonesia. Didirikan oleh Marcellino Natanael, studio ini memulai perjalanannya sebagai proyek rumahan yang didorong oleh keinginan untuk mengangkat narasi dan legenda urban Indonesia ke industri game global.',
       'about-p2':        'Kami percaya bahwa atmosfer horor terbaik lahir dari kedekatan budaya dan ketegangan psikologis yang kuat. Dengan mengintegrasikan nilai-nilai sejarah, arsitektur tradisional, dan mitologi lokal ke dalam mekanisme permainan yang kuat, Nusa Interactive Studio berkomitmen untuk menghadirkan pengalaman bermain game yang imersif, kompetitif, dan diakui secara internasional tanpa kehilangan identitas budaya kami.',
+      'founder-title':   'Pendiri & CEO',
       'sec-vm':          'Visi & Misi',
       'sec-corevals':    'Nilai Inti',
       'sec-division':    'Divisi',

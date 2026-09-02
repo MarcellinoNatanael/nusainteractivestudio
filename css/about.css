@@ -3,8 +3,8 @@
 .about-intro-section { background: #111111; }
 .about-intro {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 64px;
+  grid-template-columns: minmax(220px, 260px) 1fr;
+  gap: 48px;
   align-items: start;
 }
 .about-text p {
@@ -14,8 +14,34 @@
   margin-bottom: 22px;
   color: rgba(255,255,255,.9);
 }
-.about-img-wrap { background: #1a1a1a; overflow: hidden; }
-.about-img-wrap img { width: 100%; height: 100%; object-fit: cover; min-height: 300px; }
+
+/* ===== Founder ===== */
+.founder-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.founder-img-wrap {
+  width: 230px;
+  height: 300px;
+  overflow: hidden;
+  background: #1a1a1a;
+  border: 2px solid rgba(255,255,255,.15);
+}
+.founder-img-wrap img { width: 100%; height: 100%; object-fit: cover; }
+.founder-info { text-align: left; }
+.founder-name {
+  color: #fff;
+  font-size: 1.6rem;
+  letter-spacing: .5px;
+  margin: 0 0 6px 0;
+}
+.founder-title {
+  color: rgba(255,255,255,.7);
+  font-size: 1.1rem;
+  margin: 0;
+}
 
 .vm-section { background: #000; }
 .vm-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; align-items: stretch; }

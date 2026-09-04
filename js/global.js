@@ -276,8 +276,8 @@
       'vm-mission-p3':   'Mendorong inovasi teknologi dalam pengembangan game.',
       'vm-mission-p4':   'Mewujudkan estetika visual yang berkarakter kuat.',
       /* Core Values */
-      'cv-n-title': 'Narrative (Cerita)',
-      'cv-n-text':  'Bagi kami, cerita adalah jantung dari setiap game yang kami buat. Kami tidak sekadar menyusun alur, tapi membangun dunia dan atmosfer yang bisa membuat pemain merasakan ketakutan, penasaran, atau bahkan merasakan emosional sejak awal permainan hingga akhir dari cerita yang kami sajikan.',
+      'cv-n-title': 'Narrative',
+      'cv-n-text':  'Cerita bukan hanya sebagai pelengkap dalam',
       'cv-u-title': 'Uncharted (Belum Terjamah)',
       'cv-u-text':  'Indonesia menyimpan begitu banyak cerita rakyat, sejarah, budaya, dan mitologi yang belum semuanya di ketahui atau diangkat kedalam game. Kami ingin menggali cerita-cerita itu bukan sekadar cerita yang sudah populer, tetapi menghadirkannya dengan sudut pandang yang unik dan ciri khas bagi penggemar game horror.',
       'cv-s-title': 'Solid (Performa)',

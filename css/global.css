@@ -2,9 +2,6 @@
    NOWL VISION GAMES — GLOBAL CSS
    ============================================================ */
 
-/* Load hanya regular (ital@0), tidak include italic variant */
-@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=IM+Fell+Double+Pica+SC:ital@0&display=swap');
-
 /* ---- Reset ---- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -22,7 +19,7 @@ html { scroll-behavior: smooth; }
 body {
   background: #111111;
   color: #fff;
-  font-family: 'IM Fell Double Pica SC', serif;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 16px;
   font-style: normal;
   line-height: 1.7;
@@ -43,7 +40,7 @@ h1, h2, h3,
 .btn-cta, .btn-apply, .btn-steam, .btn-detail, .btn-project,
 .section-title, .page-hero-title,
 .footer-heading, .tab-btn {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-style: normal;
 }
 
@@ -112,7 +109,7 @@ h3                   { font-size: 20px; }
 
 .lang-toggle { display: flex; align-items: center; gap: 4px; }
 .lang-btn {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 14px;
   font-style: normal;
   color: rgba(255,255,255,.45);
@@ -166,7 +163,7 @@ h3                   { font-size: 20px; }
   display: inline-block;
   border: 2px solid #fff;
   color: #fff;
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 14px;
   font-style: normal;
   letter-spacing: .1em;
@@ -234,7 +231,7 @@ h3                   { font-size: 20px; }
   padding: 0 40px 52px;
 }
 .footer-heading {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 13px;
   font-style: normal;
   letter-spacing: .12em;
@@ -250,7 +247,7 @@ h3                   { font-size: 20px; }
 
 .footer-links li    { margin-bottom: 10px; }
 .footer-links a {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 13px;
   font-style: normal;
   letter-spacing: .08em;
@@ -272,7 +269,7 @@ h3                   { font-size: 20px; }
 .careers-table { width: 100%; border-collapse: collapse; }
 .careers-table thead tr { border-bottom: 2px solid rgba(255,255,255,.18); }
 .careers-table th {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 14px; font-style: normal;
   letter-spacing: .06em;
   text-align: left; padding: 14px 16px;
@@ -290,7 +287,7 @@ h3                   { font-size: 20px; }
 .tab-btn {
   background: none; border: none;
   color: rgba(255,255,255,.5);
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 14px; font-style: normal;
   letter-spacing: .06em;
   padding: 14px 0; cursor: pointer;

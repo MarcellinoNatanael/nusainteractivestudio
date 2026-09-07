@@ -61,7 +61,7 @@
   position: absolute; bottom: 0; left: 0; right: 0;
   background: rgba(0,0,0,.7);
   padding: 10px 14px;
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 28px;
   font-style: normal;
   letter-spacing: .06em;
@@ -198,5 +198,5 @@
 }
 
 .social-list a span {
-  font-family: "Caesar Dressing", cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
 }

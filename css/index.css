@@ -82,7 +82,7 @@
 
 .project-status {
   position: absolute; top: 14px; left: 14px; z-index: 2;
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 10px;
   font-style: normal;
   letter-spacing: .1em;
@@ -125,7 +125,7 @@
 .btn-project-view {
   display: inline-flex; align-items: center; gap: 7px;
   width: fit-content;
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 12px;
   font-style: normal;
   letter-spacing: .08em;
@@ -168,7 +168,7 @@
 }
 .news-card:hover .news-hover { opacity: 1; }
 .news-hover h3 {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 15px;
   font-style: normal;
   color: #fff;
@@ -193,7 +193,7 @@
 /* ---- CAREERS PREVIEW ---- */
 .careers-section { background: #111111; }
 .careers-sub {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 22px;
   font-style: normal;
   text-align: center;
@@ -244,5 +244,5 @@
 }
 
 .social-list a span {
-  font-family: "Caesar Dressing", cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
 }

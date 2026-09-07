@@ -51,7 +51,7 @@
 }
 .upcoming-overlay h3 { font-size: 28px; font-style: normal; }
 .upcoming-badge {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 14px; font-style: normal;
   letter-spacing: .12em;
   border: 1px solid rgba(255,255,255,.4);
@@ -89,5 +89,5 @@
 }
 
 .social-list a span {
-  font-family: "Caesar Dressing", cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
 }

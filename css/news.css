@@ -40,7 +40,7 @@
   margin-bottom: 6px;
 }
 .news-hover-overlay h3 {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
   font-size: 16px;
   font-style: normal;
   color: #fff;
@@ -97,5 +97,5 @@
 }
 
 .social-list a span {
-  font-family: "Caesar Dressing", cursive;
+  font-family: 'Bahnschrift', 'DIN Alternate', 'Arial Narrow', sans-serif;
 }

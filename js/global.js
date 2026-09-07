@@ -1,5 +1,5 @@
 /**
- * NUSA INTERACTIVE STUDIO — global.js
+ * NOWL VISION GAMES — global.js
  * Navbar scroll + hamburger | Language toggle EN/ID
  */
 (function () {
@@ -14,7 +14,7 @@
       'nav-news':        'News',
       'nav-careers':     'Careers',
       'nav-store':       'Store',
-      'hero-tagline':    'Nusa Interactive Studio is a home-based indie game studio focused on developing horror games that draw upon local culture, myths, folklore, and urban legends.',
+      'hero-tagline':    'Nowl Vision Games is a home-based indie game studio focused on developing horror games that draw upon local culture, myths, folklore, and urban legends.',
       'btn-explore':     'Explore More',
       'sec-projects':    'Our Projects',
       'proj-sub':        'From a critically-loved release to the next nightmare in the works — every project carries a piece of Indonesian folklore.',
@@ -42,8 +42,8 @@
       'foot-privacy':    'Privacy Policy',
       'foot-contact':    'Contact',
       /* About */
-      'about-p1':        'Nusa Interactive Studio is an independent game development studio focused on the horror and psychological horror genres, drawing inspiration from Indonesian culture, myths, folklore, and urban legends. Founded by Marcellino Natanael, the studio began as a home-grown project driven by the desire to bring Indonesian narratives and urban legends to the global gaming industry.',
-      'about-p2':        'We believe that the most compelling horror atmospheres arise from cultural resonance and intense psychological tension. By integrating historical elements, traditional architecture, and local mythology into robust gameplay mechanics, Nusa Interactive Studio is committed to delivering immersive, competitive, and internationally acclaimed gaming experiences without compromising our cultural identity.',
+      'about-p1':        'Nowl Vision Games is an independent game development studio focused on the horror and psychological horror genres, drawing inspiration from Indonesian culture, myths, folklore, and urban legends. Founded by Marcellino Natanael, the studio began as a home-grown project driven by the desire to bring Indonesian narratives and urban legends to the global gaming industry.',
+      'about-p2':        'We believe that the most compelling horror atmospheres arise from cultural resonance and intense psychological tension. By integrating historical elements, traditional architecture, and local mythology into robust gameplay mechanics, Nowl Vision Games is committed to delivering immersive, competitive, and internationally acclaimed gaming experiences without compromising our cultural identity.',
       'founder-title':   'Founder & CEO',
       'sec-vm':          'Vision & Mission',
       'sec-corevals':    'Core Values',
@@ -101,16 +101,16 @@
       'terms-toc-12': '12. Governing Law &amp; Dispute Resolution',
       'terms-toc-13': '13. Contact',
 
-      'terms-note': 'This document is a general Terms and Conditions framework prepared based on the structure of the Nusa Interactive Studio website, taking into account the Studio\u2019s status as an indie project that is not yet a registered legal entity. This document <strong>is not a substitute for professional legal advice</strong>. Before official publication, it is strongly recommended to have it reviewed by a legal consultant to ensure compliance with the regulations applicable in your jurisdiction, particularly regarding limitation of liability and indemnification clauses.',
+      'terms-note': 'This document is a general Terms and Conditions framework prepared based on the structure of the Nowl Vision Games website, taking into account the Studio\u2019s status as an indie project that is not yet a registered legal entity. This document <strong>is not a substitute for professional legal advice</strong>. Before official publication, it is strongly recommended to have it reviewed by a legal consultant to ensure compliance with the regulations applicable in your jurisdiction, particularly regarding limitation of liability and indemnification clauses.',
 
       'terms-h-01': 'Introduction',
-      'terms-p-01-a': 'Welcome to <strong>nusainteractivestudio.com</strong> ("Site"), operated by Nusa Interactive Studio ("we", "Studio"). By accessing or using this Site, you ("User") agree to be bound by the following Terms and Conditions. If you do not agree to any part of these terms, please refrain from continuing to use the Site.',
-      'terms-p-01-b': '<strong>Nusa Interactive Studio</strong> is the name of an independent (indie) creative project/brand run by an individual and/or a team of developers, and is <strong>currently not registered as a formal legal entity</strong> (such as a PT or CV) in Indonesia. All activities, communications, and products released under this name are carried out as part of this independent project. Should the institutional status change to a formal legal entity in the future, these Terms and Conditions will be updated to reflect that change.',
+      'terms-p-01-a': 'Welcome to <strong>nusainteractivestudio.com</strong> ("Site"), operated by Nowl Vision Games ("we", "Studio"). By accessing or using this Site, you ("User") agree to be bound by the following Terms and Conditions. If you do not agree to any part of these terms, please refrain from continuing to use the Site.',
+      'terms-p-01-b': '<strong>Nowl Vision Games</strong> is the name of an independent (indie) creative project/brand run by an individual and/or a team of developers, and is <strong>currently not registered as a formal legal entity</strong> (such as a PT or CV) in Indonesia. All activities, communications, and products released under this name are carried out as part of this independent project. Should the institutional status change to a formal legal entity in the future, these Terms and Conditions will be updated to reflect that change.',
 
       'terms-h-02': 'Definitions',
       'terms-li-02-situs':    '<strong>Site</strong> refers to nusainteractivestudio.com, including all pages and subdomains within it.',
       'terms-li-02-konten':   '<strong>Content</strong> includes text, images, videos, logos, and other materials published on the Site.',
-      'terms-li-02-produk':   '<strong>Product</strong> refers to the games and digital assets developed by Nusa Interactive Studio, including but not limited to DEMIT and Perjanjian Gaib.',
+      'terms-li-02-produk':   '<strong>Product</strong> refers to the games and digital assets developed by Nowl Vision Games, including but not limited to DEMIT and Perjanjian Gaib.',
       'terms-li-02-pengguna': '<strong>User</strong> means any individual who accesses or interacts with the Site.',
 
       'terms-h-03': 'Use of the Site',
@@ -121,15 +121,15 @@
       'terms-li-03-d': 'Uploading or distributing content that is unlawful, contains hate speech, or infringes the rights of others.',
 
       'terms-h-04': 'Intellectual Property Rights',
-      'terms-p-04-a': 'All Content on the Site including but not limited to logos, product names (DEMIT, Perjanjian Gaib), layout, writing, and the overall visual composition belongs to Nusa Interactive Studio or its licensors, and is protected under applicable copyright and intellectual property laws. Copying, distributing, modifying, or reusing Content without our written permission is prohibited, except for reasonable personal and non-commercial purposes (such as sharing a link to the Site).',
+      'terms-p-04-a': 'All Content on the Site including but not limited to logos, product names (DEMIT, Perjanjian Gaib), layout, writing, and the overall visual composition belongs to Nowl Vision Games or its licensors, and is protected under applicable copyright and intellectual property laws. Copying, distributing, modifying, or reusing Content without our written permission is prohibited, except for reasonable personal and non-commercial purposes (such as sharing a link to the Site).',
       'terms-p-04-b': 'Some of our visual assets, illustrations, design elements, and in-game assets are created using or incorporate licensed third-party materials, including but not limited to:',
       'terms-li-04-canva': '<strong>Canva</strong> graphic elements and design templates used in accordance with the <a class="inline-link" href="https://www.canva.com/policies/content-license-agreement/" target="_blank" rel="noopener">Canva Content License Agreement</a>.',
       'terms-li-04-fab':   '<strong>Fab (Epic Games / Unreal Engine Marketplace)</strong> 3D assets, models, textures, and/or plugins used in accordance with the Fab End User License Agreement (EULA) applicable to each asset.',
-      'terms-p-04-c': 'Copyright in the original third-party materials remains with their respective creators or licensors, and our use of them is carried out in accordance with the license terms applicable on each platform. Nusa Interactive Studio does not claim exclusive ownership over such raw third-party assets, but holds copyright over the resulting work, compilation, creative combination, story, characters, and the overall game product built from those assets.',
+      'terms-p-04-c': 'Copyright in the original third-party materials remains with their respective creators or licensors, and our use of them is carried out in accordance with the license terms applicable on each platform. Nowl Vision Games does not claim exclusive ownership over such raw third-party assets, but holds copyright over the resulting work, compilation, creative combination, story, characters, and the overall game product built from those assets.',
       'terms-note-04': 'If you come across a potential license infringement related to third-party assets on the Site or in our Products, please contact us through the channels listed in the Contact section.',
 
       'terms-h-05': 'Product &amp; Game Purchases',
-      'terms-p-05': 'Purchases of games and digital products through our Store page are subject to the terms of the relevant distribution platform (such as Steam, itch.io, or other platforms we use). Nusa Interactive Studio does not process payments directly on this Site; transactions are directed to third-party platforms that have their own refund and payment policies.',
+      'terms-p-05': 'Purchases of games and digital products through our Store page are subject to the terms of the relevant distribution platform (such as Steam, itch.io, or other platforms we use). Nowl Vision Games does not process payments directly on this Site; transactions are directed to third-party platforms that have their own refund and payment policies.',
 
       'terms-h-06': 'User Content',
       'terms-p-06': 'If you submit content to us (for example through a contact form, our Discord community, or our social media), you warrant that such content does not infringe the rights of any third party and grant us a non-exclusive license to use it for promotional purposes or community development related to the Studio.',
@@ -139,11 +139,11 @@
 
       'terms-h-08': 'Limitation of Liability',
       'terms-p-08-a': 'The Site, Content, and Products are provided <strong>"as is" and "as available"</strong>, without warranties of any kind, whether express or implied, including but not limited to warranties of fitness for a particular purpose, absence of bugs, or accuracy of information.',
-      'terms-p-08-b': 'To the extent permitted by applicable law, Nusa Interactive Studio \u2014 including the individual(s)/team managing it \u2014 <strong>shall not be liable</strong> for any direct, indirect, incidental, special, consequential, or other damages whatsoever (including but not limited to data loss, loss of profit, device damage, or business interruption) arising from or related to the use or inability to use the Site or our Products, even if we have been advised of the possibility of such damages.',
-      'terms-p-08-c': 'Because Nusa Interactive Studio operates as an independent project without formal business capital, if any indemnification obligation remains legally applicable despite the above limitation, our total liability to you shall be limited to the amount you paid us for the relevant Product within the last 12 (twelve) months, or IDR 0 (zero) if the Product or service was accessed free of charge.',
+      'terms-p-08-b': 'To the extent permitted by applicable law, Nowl Vision Games \u2014 including the individual(s)/team managing it \u2014 <strong>shall not be liable</strong> for any direct, indirect, incidental, special, consequential, or other damages whatsoever (including but not limited to data loss, loss of profit, device damage, or business interruption) arising from or related to the use or inability to use the Site or our Products, even if we have been advised of the possibility of such damages.',
+      'terms-p-08-c': 'Because Nowl Vision Games operates as an independent project without formal business capital, if any indemnification obligation remains legally applicable despite the above limitation, our total liability to you shall be limited to the amount you paid us for the relevant Product within the last 12 (twelve) months, or IDR 0 (zero) if the Product or service was accessed free of charge.',
 
       'terms-h-09': 'Indemnification',
-      'terms-p-09-intro': 'You agree to defend, indemnify, and hold harmless Nusa Interactive Studio and the individual(s)/team managing it from any claims, demands, losses, liabilities, and costs (including reasonable legal fees) arising from:',
+      'terms-p-09-intro': 'You agree to defend, indemnify, and hold harmless Nowl Vision Games and the individual(s)/team managing it from any claims, demands, losses, liabilities, and costs (including reasonable legal fees) arising from:',
       'terms-li-09-a': 'Your breach of these Terms and Conditions;',
       'terms-li-09-b': 'Your misuse of the Site or our Products;',
       'terms-li-09-c': 'Your infringement of any third-party rights, including intellectual property rights; or',
@@ -177,11 +177,11 @@
       'privacy-toc-10': '10. Changes to This Policy',
       'privacy-toc-11': '11. Contact',
 
-      'privacy-note': 'This document is a general Privacy Policy framework prepared based on the structure of the Nusa Interactive Studio website, taking into account that this Site is static (it has no forms, user accounts, or payment processing), and the Studio\u2019s status as an indie project that is not yet a registered legal entity. This document <strong>is not a substitute for professional legal advice</strong>. Before official publication, it is recommended to have it reviewed by a legal consultant to ensure compliance with applicable data protection regulations (such as Indonesia\u2019s Personal Data Protection Law/UU PDP).',
+      'privacy-note': 'This document is a general Privacy Policy framework prepared based on the structure of the Nowl Vision Games website, taking into account that this Site is static (it has no forms, user accounts, or payment processing), and the Studio\u2019s status as an indie project that is not yet a registered legal entity. This document <strong>is not a substitute for professional legal advice</strong>. Before official publication, it is recommended to have it reviewed by a legal consultant to ensure compliance with applicable data protection regulations (such as Indonesia\u2019s Personal Data Protection Law/UU PDP).',
 
       'privacy-h-01': 'Introduction',
-      'privacy-p-01-a': 'Nusa Interactive Studio ("we", "Studio") values the privacy of every visitor to <strong>nusainteractivestudio.com</strong> ("Site"). This Privacy Policy explains how this Site operates in relation to visitor data, given that our Site is a static site that serves as an informational medium rather than a platform that actively collects user data.',
-      'privacy-p-01-b': '<strong>Nusa Interactive Studio</strong> is the name of an independent (indie) creative project/brand run by an individual and/or a team of developers, and is currently not registered as a formal legal entity (such as a PT or CV) in Indonesia.',
+      'privacy-p-01-a': 'Nowl Vision Games ("we", "Studio") values the privacy of every visitor to <strong>nusainteractivestudio.com</strong> ("Site"). This Privacy Policy explains how this Site operates in relation to visitor data, given that our Site is a static site that serves as an informational medium rather than a platform that actively collects user data.',
+      'privacy-p-01-b': '<strong>Nowl Vision Games</strong> is the name of an independent (indie) creative project/brand run by an individual and/or a team of developers, and is currently not registered as a formal legal entity (such as a PT or CV) in Indonesia.',
 
       'privacy-h-02': 'The Nature of This Site',
       'privacy-p-02': 'This Site is a static website that serves as an informational medium about the Studio, our game projects, and related news. This Site <strong>does not have any account registration system, data collection forms, shopping cart, or payment processing</strong> of any kind. We do not actively request or store visitors\u2019 personal data through this Site.',
@@ -205,7 +205,7 @@
       'privacy-p-08': 'Should this Site add features that actively collect personal data in the future (such as a contact form, newsletter, account system, or visitor analytics tools like Google Analytics), this Privacy Policy will be updated to explain in detail what data is collected and how it is used.',
 
       'privacy-h-09': 'Limitation of Liability',
-      'privacy-p-09': 'As an indie project that is not yet a registered legal entity, and as a static site without active personal data processing, Nusa Interactive Studio is not liable for losses arising from third-party platforms linked from this Site, or from security incidents on third-party hosting infrastructure beyond our control.',
+      'privacy-p-09': 'As an indie project that is not yet a registered legal entity, and as a static site without active personal data processing, Nowl Vision Games is not liable for losses arising from third-party platforms linked from this Site, or from security incidents on third-party hosting infrastructure beyond our control.',
 
       'privacy-h-10': 'Changes to This Policy',
       'privacy-p-10': 'We may update this Privacy Policy from time to time to reflect changes to the Site or legal requirements. The latest update date will always be shown at the top of this page.',
@@ -220,7 +220,7 @@
       'nav-news':        'Berita',
       'nav-careers':     'Karir',
       'nav-store':       'Toko',
-      'hero-tagline':    'Nusa Interactive Studio adalah studio game indie rumahan yang berfokus pada pengembangan game horor dengan mengangkat budaya, mitos, cerita rakyat, dan urban legend lokal.',
+      'hero-tagline':    'Nowl Vision Games adalah studio game indie rumahan yang berfokus pada pengembangan game horor dengan mengangkat budaya, mitos, cerita rakyat, dan urban legend lokal.',
       'btn-explore':     'Jelajahi',
       'sec-projects':    'Proyek Kami',
       'proj-sub':        'Dari rilis yang mendapat sambutan hangat hingga mimpi buruk berikutnya yang sedang digarap — setiap proyek membawa sepotong cerita rakyat Indonesia.',
@@ -248,8 +248,8 @@
       'foot-privacy':    'Kebijakan Privasi',
       'foot-contact':    'Kontak',
       /* About */
-      'about-p1':        'Nusa Interactive Studio adalah studio pengembang game independen yang berfokus pada genre horor dan horor psikologis, berdasarkan budaya, mitos, cerita rakyat, dan urban legend lokal Indonesia. Didirikan oleh Marcellino Natanael, studio ini memulai perjalanannya sebagai proyek rumahan yang didorong oleh keinginan untuk mengangkat narasi dan legenda urban Indonesia ke industri game global.',
-      'about-p2':        'Kami percaya bahwa atmosfer horor terbaik lahir dari kedekatan budaya dan ketegangan psikologis yang kuat. Dengan mengintegrasikan nilai-nilai sejarah, arsitektur tradisional, dan mitologi lokal ke dalam mekanisme permainan yang kuat, Nusa Interactive Studio berkomitmen untuk menghadirkan pengalaman bermain game yang imersif, kompetitif, dan diakui secara internasional tanpa kehilangan identitas budaya kami.',
+      'about-p1':        'Nowl Vision Games adalah studio pengembang game independen yang berfokus pada genre horor dan horor psikologis, berdasarkan budaya, mitos, cerita rakyat, dan urban legend lokal Indonesia. Didirikan oleh Marcellino Natanael, studio ini memulai perjalanannya sebagai proyek rumahan yang didorong oleh keinginan untuk mengangkat narasi dan legenda urban Indonesia ke industri game global.',
+      'about-p2':        'Kami percaya bahwa atmosfer horor terbaik lahir dari kedekatan budaya dan ketegangan psikologis yang kuat. Dengan mengintegrasikan nilai-nilai sejarah, arsitektur tradisional, dan mitologi lokal ke dalam mekanisme permainan yang kuat, Nowl Vision Games berkomitmen untuk menghadirkan pengalaman bermain game yang imersif, kompetitif, dan diakui secara internasional tanpa kehilangan identitas budaya kami.',
       'founder-title':   'Pendiri & CEO',
       'sec-vm':          'Visi & Misi',
       'sec-corevals':    'Nilai Inti',
@@ -307,16 +307,16 @@
       'terms-toc-12': '12. Hukum yang Berlaku &amp; Penyelesaian Sengketa',
       'terms-toc-13': '13. Kontak',
 
-      'terms-note': 'Dokumen ini adalah kerangka umum Syarat dan Ketentuan yang disusun berdasarkan struktur situs Nusa Interactive Studio, dengan mempertimbangkan status Studio sebagai proyek indie yang belum berbadan hukum resmi. Dokumen ini <strong>bukan pengganti nasihat hukum profesional</strong>. Sebelum dipublikasikan secara resmi, sangat disarankan untuk ditinjau oleh konsultan hukum agar sesuai dengan regulasi yang berlaku di yurisdiksi Anda, terutama terkait batasan tanggung jawab dan klausul ganti rugi.',
+      'terms-note': 'Dokumen ini adalah kerangka umum Syarat dan Ketentuan yang disusun berdasarkan struktur situs Nowl Vision Games, dengan mempertimbangkan status Studio sebagai proyek indie yang belum berbadan hukum resmi. Dokumen ini <strong>bukan pengganti nasihat hukum profesional</strong>. Sebelum dipublikasikan secara resmi, sangat disarankan untuk ditinjau oleh konsultan hukum agar sesuai dengan regulasi yang berlaku di yurisdiksi Anda, terutama terkait batasan tanggung jawab dan klausul ganti rugi.',
 
       'terms-h-01': 'Pendahuluan',
-      'terms-p-01-a': 'Selamat datang di <strong>nusainteractivestudio.com</strong> ("Situs"), yang dikelola oleh Nusa Interactive Studio ("kami", "Studio"). Dengan mengakses atau menggunakan Situs ini, Anda ("Pengguna") menyetujui untuk terikat dengan Syarat dan Ketentuan berikut. Jika Anda tidak menyetujui salah satu ketentuan di sini, mohon untuk tidak melanjutkan penggunaan Situs.',
-      'terms-p-01-b': '<strong>Nusa Interactive Studio</strong> adalah nama proyek/brand kreatif independen (indie) yang dikelola oleh perorangan dan/atau tim developer, dan <strong>saat ini belum berbentuk badan hukum resmi</strong> (seperti PT atau CV) di Indonesia. Seluruh aktivitas, komunikasi, dan produk yang dihasilkan di bawah nama ini dijalankan atas nama proyek independen tersebut. Apabila di kemudian hari status kelembagaan berubah menjadi badan hukum resmi, Syarat dan Ketentuan ini akan diperbarui untuk mencerminkan perubahan tersebut.',
+      'terms-p-01-a': 'Selamat datang di <strong>nusainteractivestudio.com</strong> ("Situs"), yang dikelola oleh Nowl Vision Games ("kami", "Studio"). Dengan mengakses atau menggunakan Situs ini, Anda ("Pengguna") menyetujui untuk terikat dengan Syarat dan Ketentuan berikut. Jika Anda tidak menyetujui salah satu ketentuan di sini, mohon untuk tidak melanjutkan penggunaan Situs.',
+      'terms-p-01-b': '<strong>Nowl Vision Games</strong> adalah nama proyek/brand kreatif independen (indie) yang dikelola oleh perorangan dan/atau tim developer, dan <strong>saat ini belum berbentuk badan hukum resmi</strong> (seperti PT atau CV) di Indonesia. Seluruh aktivitas, komunikasi, dan produk yang dihasilkan di bawah nama ini dijalankan atas nama proyek independen tersebut. Apabila di kemudian hari status kelembagaan berubah menjadi badan hukum resmi, Syarat dan Ketentuan ini akan diperbarui untuk mencerminkan perubahan tersebut.',
 
       'terms-h-02': 'Definisi',
       'terms-li-02-situs':    '<strong>Situs</strong> merujuk pada nusainteractivestudio.com beserta seluruh halaman dan subdomain di dalamnya.',
       'terms-li-02-konten':   '<strong>Konten</strong> mencakup teks, gambar, video, logo, dan materi lain yang dipublikasikan di Situs.',
-      'terms-li-02-produk':   '<strong>Produk</strong> merujuk pada game dan aset digital yang dikembangkan oleh Nusa Interactive Studio, termasuk namun tidak terbatas pada DEMIT dan Perjanjian Gaib.',
+      'terms-li-02-produk':   '<strong>Produk</strong> merujuk pada game dan aset digital yang dikembangkan oleh Nowl Vision Games, termasuk namun tidak terbatas pada DEMIT dan Perjanjian Gaib.',
       'terms-li-02-pengguna': '<strong>Pengguna</strong> adalah setiap individu yang mengakses atau berinteraksi dengan Situs.',
 
       'terms-h-03': 'Penggunaan Situs',
@@ -327,15 +327,15 @@
       'terms-li-03-d': 'Mengunggah atau menyebarkan konten yang melanggar hukum, mengandung ujaran kebencian, atau melanggar hak pihak lain.',
 
       'terms-h-04': 'Hak Kekayaan Intelektual',
-      'terms-p-04-a': 'Seluruh Konten yang ada di Situs termasuk namun tidak terbatas pada logo, nama produk (DEMIT, Perjanjian Gaib), tata letak, tulisan, dan hasil komposisi visual secara keseluruhan \u2014 adalah milik Nusa Interactive Studio atau pemberi lisensinya, dan dilindungi oleh hukum hak cipta serta kekayaan intelektual yang berlaku. Dilarang menyalin, mendistribusikan, memodifikasi, atau menggunakan kembali Konten tanpa izin tertulis dari kami, kecuali untuk keperluan pribadi dan non-komersial yang wajar (misalnya membagikan tautan Situs).',
+      'terms-p-04-a': 'Seluruh Konten yang ada di Situs termasuk namun tidak terbatas pada logo, nama produk (DEMIT, Perjanjian Gaib), tata letak, tulisan, dan hasil komposisi visual secara keseluruhan \u2014 adalah milik Nowl Vision Games atau pemberi lisensinya, dan dilindungi oleh hukum hak cipta serta kekayaan intelektual yang berlaku. Dilarang menyalin, mendistribusikan, memodifikasi, atau menggunakan kembali Konten tanpa izin tertulis dari kami, kecuali untuk keperluan pribadi dan non-komersial yang wajar (misalnya membagikan tautan Situs).',
       'terms-p-04-b': 'Sebagian aset visual, ilustrasi, elemen desain, dan aset dalam game kami dibuat menggunakan atau menggabungkan materi berlisensi dari pihak ketiga, termasuk namun tidak terbatas pada:',
       'terms-li-04-canva': '<strong>Canva</strong> elemen grafis dan template desain yang digunakan sesuai dengan <a class="inline-link" href="https://www.canva.com/policies/content-license-agreement/" target="_blank" rel="noopener">Canva Content License Agreement</a>.',
       'terms-li-04-fab':   '<strong>Fab (Epic Games / Unreal Engine Marketplace)</strong> aset 3D, model, tekstur, dan/atau plugin yang digunakan sesuai dengan ketentuan lisensi Fab End User License Agreement (EULA) yang berlaku pada masing-masing aset.',
-      'terms-p-04-c': 'Hak cipta atas materi-materi asli dari pihak ketiga tersebut tetap dipegang oleh pembuat atau pemberi lisensi aslinya, dan penggunaannya oleh Nusa Interactive Studio dilakukan sesuai dengan lisensi yang berlaku pada masing-masing platform. Nusa Interactive Studio tidak mengklaim kepemilikan eksklusif atas aset mentah pihak ketiga tersebut, namun memegang hak cipta atas hasil karya, kompilasi, kombinasi kreatif, cerita, karakter, dan keseluruhan produk game yang dibangun dari aset-aset tersebut.',
+      'terms-p-04-c': 'Hak cipta atas materi-materi asli dari pihak ketiga tersebut tetap dipegang oleh pembuat atau pemberi lisensi aslinya, dan penggunaannya oleh Nowl Vision Games dilakukan sesuai dengan lisensi yang berlaku pada masing-masing platform. Nowl Vision Games tidak mengklaim kepemilikan eksklusif atas aset mentah pihak ketiga tersebut, namun memegang hak cipta atas hasil karya, kompilasi, kombinasi kreatif, cerita, karakter, dan keseluruhan produk game yang dibangun dari aset-aset tersebut.',
       'terms-note-04': 'Apabila Anda menemukan potensi pelanggaran lisensi terkait aset pihak ketiga di Situs atau Produk kami, silakan hubungi kami melalui kanal yang tercantum di bagian Kontak.',
 
       'terms-h-05': 'Pembelian Produk &amp; Game',
-      'terms-p-05': 'Pembelian game dan produk digital melalui halaman Store kami tunduk pada ketentuan platform distribusi terkait (misalnya Steam, itch.io, atau platform lain yang kami gunakan). Nusa Interactive Studio tidak memproses pembayaran secara langsung di Situs ini; transaksi diarahkan ke platform pihak ketiga yang memiliki kebijakan refund dan pembayarannya sendiri.',
+      'terms-p-05': 'Pembelian game dan produk digital melalui halaman Store kami tunduk pada ketentuan platform distribusi terkait (misalnya Steam, itch.io, atau platform lain yang kami gunakan). Nowl Vision Games tidak memproses pembayaran secara langsung di Situs ini; transaksi diarahkan ke platform pihak ketiga yang memiliki kebijakan refund dan pembayarannya sendiri.',
 
       'terms-h-06': 'Konten Pengguna',
       'terms-p-06': 'Apabila Anda mengirimkan konten kepada kami (misalnya melalui formulir kontak, komunitas Discord, atau media sosial kami), Anda menjamin bahwa konten tersebut tidak melanggar hak pihak ketiga dan memberikan kami izin non-eksklusif untuk menggunakannya sepanjang berkaitan dengan aktivitas promosi atau pengembangan komunitas Studio.',
@@ -345,11 +345,11 @@
 
       'terms-h-08': 'Batasan Tanggung Jawab',
       'terms-p-08-a': 'Situs, Konten, dan Produk disediakan <strong>"sebagaimana adanya" ("as is") dan "sebagaimana tersedia" ("as available")</strong>, tanpa jaminan dalam bentuk apa pun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan kelayakan untuk tujuan tertentu, ketiadaan gangguan (bug), atau ketepatan informasi.',
-      'terms-p-08-b': 'Sepanjang diizinkan oleh hukum yang berlaku, Nusa Interactive Studio \u2014 termasuk perorangan/tim yang mengelolanya \u2014 <strong>tidak bertanggung jawab</strong> atas segala bentuk kerugian langsung, tidak langsung, insidental, khusus, konsekuensial, atau kerugian lain apa pun (termasuk namun tidak terbatas pada kehilangan data, kehilangan keuntungan, kerusakan perangkat, atau gangguan bisnis) yang timbul dari atau berkaitan dengan penggunaan atau ketidakmampuan menggunakan Situs maupun Produk kami, sekalipun kami telah diberitahu mengenai kemungkinan terjadinya kerugian tersebut.',
-      'terms-p-08-c': 'Karena Nusa Interactive Studio dijalankan sebagai proyek independen tanpa modal usaha formal, apabila terdapat kewajiban ganti rugi yang secara hukum tetap berlaku terlepas dari batasan di atas, maka total tanggung jawab kami kepada Anda dibatasi maksimal sejumlah nilai yang Anda bayarkan kepada kami untuk Produk terkait dalam 12 (dua belas) bulan terakhir, atau sejumlah Rp0 (nol rupiah) apabila Produk atau layanan tersebut diakses secara gratis.',
+      'terms-p-08-b': 'Sepanjang diizinkan oleh hukum yang berlaku, Nowl Vision Games \u2014 termasuk perorangan/tim yang mengelolanya \u2014 <strong>tidak bertanggung jawab</strong> atas segala bentuk kerugian langsung, tidak langsung, insidental, khusus, konsekuensial, atau kerugian lain apa pun (termasuk namun tidak terbatas pada kehilangan data, kehilangan keuntungan, kerusakan perangkat, atau gangguan bisnis) yang timbul dari atau berkaitan dengan penggunaan atau ketidakmampuan menggunakan Situs maupun Produk kami, sekalipun kami telah diberitahu mengenai kemungkinan terjadinya kerugian tersebut.',
+      'terms-p-08-c': 'Karena Nowl Vision Games dijalankan sebagai proyek independen tanpa modal usaha formal, apabila terdapat kewajiban ganti rugi yang secara hukum tetap berlaku terlepas dari batasan di atas, maka total tanggung jawab kami kepada Anda dibatasi maksimal sejumlah nilai yang Anda bayarkan kepada kami untuk Produk terkait dalam 12 (dua belas) bulan terakhir, atau sejumlah Rp0 (nol rupiah) apabila Produk atau layanan tersebut diakses secara gratis.',
 
       'terms-h-09': 'Ganti Rugi',
-      'terms-p-09-intro': 'Anda setuju untuk membela, mengganti rugi, dan membebaskan Nusa Interactive Studio beserta perorangan/tim yang mengelolanya dari segala klaim, tuntutan, kerugian, kewajiban, dan biaya (termasuk biaya hukum yang wajar) yang timbul akibat:',
+      'terms-p-09-intro': 'Anda setuju untuk membela, mengganti rugi, dan membebaskan Nowl Vision Games beserta perorangan/tim yang mengelolanya dari segala klaim, tuntutan, kerugian, kewajiban, dan biaya (termasuk biaya hukum yang wajar) yang timbul akibat:',
       'terms-li-09-a': 'Pelanggaran Anda terhadap Syarat dan Ketentuan ini;',
       'terms-li-09-b': 'Penyalahgunaan Situs atau Produk kami oleh Anda;',
       'terms-li-09-c': 'Pelanggaran Anda terhadap hak pihak ketiga, termasuk hak kekayaan intelektual; atau',
@@ -383,11 +383,11 @@
       'privacy-toc-10': '10. Perubahan Kebijakan',
       'privacy-toc-11': '11. Kontak',
 
-      'privacy-note': 'Dokumen ini adalah kerangka umum Kebijakan Privasi yang disusun berdasarkan struktur situs Nusa Interactive Studio, dengan mempertimbangkan bahwa Situs ini bersifat statis (tidak memiliki sistem formulir, akun pengguna, atau pemrosesan pembayaran), serta status Studio sebagai proyek indie yang belum berbadan hukum resmi. Dokumen ini <strong>bukan pengganti nasihat hukum profesional</strong>. Sebelum dipublikasikan secara resmi, disarankan untuk ditinjau oleh konsultan hukum agar sesuai dengan regulasi perlindungan data yang berlaku (misalnya UU PDP di Indonesia).',
+      'privacy-note': 'Dokumen ini adalah kerangka umum Kebijakan Privasi yang disusun berdasarkan struktur situs Nowl Vision Games, dengan mempertimbangkan bahwa Situs ini bersifat statis (tidak memiliki sistem formulir, akun pengguna, atau pemrosesan pembayaran), serta status Studio sebagai proyek indie yang belum berbadan hukum resmi. Dokumen ini <strong>bukan pengganti nasihat hukum profesional</strong>. Sebelum dipublikasikan secara resmi, disarankan untuk ditinjau oleh konsultan hukum agar sesuai dengan regulasi perlindungan data yang berlaku (misalnya UU PDP di Indonesia).',
 
       'privacy-h-01': 'Pendahuluan',
-      'privacy-p-01-a': 'Nusa Interactive Studio ("kami", "Studio") menghargai privasi setiap pengunjung situs <strong>nusainteractivestudio.com</strong> ("Situs"). Kebijakan Privasi ini menjelaskan bagaimana Situs ini beroperasi terkait data pengunjung, mengingat Situs kami adalah situs statis yang berfungsi sebagai media informasi, bukan platform yang mengumpulkan data pengguna secara aktif.',
-      'privacy-p-01-b': '<strong>Nusa Interactive Studio</strong> adalah nama proyek/brand kreatif independen (indie) yang dikelola oleh perorangan dan/atau tim developer, dan saat ini belum berbentuk badan hukum resmi (seperti PT atau CV) di Indonesia.',
+      'privacy-p-01-a': 'Nowl Vision Games ("kami", "Studio") menghargai privasi setiap pengunjung situs <strong>nusainteractivestudio.com</strong> ("Situs"). Kebijakan Privasi ini menjelaskan bagaimana Situs ini beroperasi terkait data pengunjung, mengingat Situs kami adalah situs statis yang berfungsi sebagai media informasi, bukan platform yang mengumpulkan data pengguna secara aktif.',
+      'privacy-p-01-b': '<strong>Nowl Vision Games</strong> adalah nama proyek/brand kreatif independen (indie) yang dikelola oleh perorangan dan/atau tim developer, dan saat ini belum berbentuk badan hukum resmi (seperti PT atau CV) di Indonesia.',
 
       'privacy-h-02': 'Sifat Situs Ini',
       'privacy-p-02': 'Situs ini merupakan situs statis (static website) yang berfungsi sebagai media informasi mengenai Studio, proyek game, dan berita terkait. Situs ini <strong>tidak memiliki sistem pendaftaran akun, formulir pengumpulan data, keranjang belanja, atau pemrosesan pembayaran</strong> apa pun. Kami tidak secara aktif meminta atau menyimpan data pribadi pengunjung melalui Situs ini.',
@@ -411,7 +411,7 @@
       'privacy-p-08': 'Apabila di kemudian hari Situs ini menambahkan fitur yang mengumpulkan data pribadi secara aktif (misalnya formulir kontak, newsletter, sistem akun, atau alat analitik pengunjung seperti Google Analytics), Kebijakan Privasi ini akan diperbarui untuk menjelaskan secara rinci data apa yang dikumpulkan dan bagaimana data tersebut digunakan.',
 
       'privacy-h-09': 'Batasan Tanggung Jawab',
-      'privacy-p-09': 'Sebagai proyek indie yang belum berbadan hukum resmi, dan sebagai situs statis tanpa pemrosesan data pribadi secara aktif, Nusa Interactive Studio tidak bertanggung jawab atas kerugian yang timbul dari platform pihak ketiga yang ditautkan dari Situs ini, atau dari insiden keamanan pada infrastruktur hosting pihak ketiga yang berada di luar kendali kami.',
+      'privacy-p-09': 'Sebagai proyek indie yang belum berbadan hukum resmi, dan sebagai situs statis tanpa pemrosesan data pribadi secara aktif, Nowl Vision Games tidak bertanggung jawab atas kerugian yang timbul dari platform pihak ketiga yang ditautkan dari Situs ini, atau dari insiden keamanan pada infrastruktur hosting pihak ketiga yang berada di luar kendali kami.',
 
       'privacy-h-10': 'Perubahan Kebijakan',
       'privacy-p-10': 'Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu untuk mencerminkan perubahan pada Situs atau persyaratan hukum. Tanggal pembaruan terbaru akan selalu tercantum di bagian atas halaman ini.',

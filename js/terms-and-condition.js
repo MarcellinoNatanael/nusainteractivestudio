@@ -1,5 +1,5 @@
 /**
- * LEGAL.JS — Nusa Interactive Studio
+ * LEGAL.JS — Nowl Vision Games
  * Scrollspy for TOC sidebar + back-to-top button
  * Shared by terms.html and privacy.html
  */

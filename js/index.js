@@ -1,5 +1,5 @@
 /**
- * HOME.JS — Nusa Interactive Studio
+ * HOME.JS — Nowl Vision Games
  * Division filter tabs (Projects carousel is handled by global.js's generic initCarousel)
  */
 (function () {

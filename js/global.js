@@ -215,7 +215,7 @@
 
       /* ================= BLOG 2: THE CHILD KIDNAPPER SOUND DESIGN ================= */
       'blog2-copy-link':   'Copy Link',
-      'blog2-title':       'It Can Be Scary Without a Ghost? Discover the Sound Techniques Behind The Child Kidnapper',
+      'blog2-title':       'How can sound increase tension and fear more effectively than jump scares? Listen to the explanation!',
       'blog2-lead':        'Imagine you\u2019re alone in your room. The lights are dim, your headphones are on, and suddenly you hear a voice whispering, \u201cJaka... Jaka...\u201d from somewhere. You immediately look around. Nobody\u2019s there. A few seconds later, you hear footsteps coming from outside the room. But nothing unusual is happening on the screen.',
       'blog2-date':        'Updated December 24, 2025',
       'blog2-read-time':   '6 min read',
@@ -525,7 +525,7 @@
 
       /* ================= BLOG 2: SOUND DESIGN THE CHILD KIDNAPPER ================= */
       'blog2-copy-link':   'Salin Link',
-      'blog2-title':       'Bisa Seram Tanpa Hantu yang Kelihatan? Intip Teknik Suara di Balik The Child Kidnapper',
+      'blog2-title':       'Bagaimana suara dapat meningkatkan ketegangan dan ketakutan dengan lebih efektif dibandingkan jumpscare? Simak penjelasannya!',
       'blog2-lead':        'Bayangkan kamu sendirian di kamar. Lampu redup, headphone terpasang, dan tiba-tiba kamu dengar bisikan, "Jaka... Jaka..." dari suatu tempat. Kamu langsung menoleh ke sekeliling. Tidak ada siapa-siapa. Beberapa detik kemudian, terdengar suara langkah kaki dari luar kamar. Tapi di layar, tidak ada satu pun hal aneh yang terjadi.',
       'blog2-date':        'Diperbarui 24 Desember 2025',
       'blog2-read-time':   '6 menit baca',

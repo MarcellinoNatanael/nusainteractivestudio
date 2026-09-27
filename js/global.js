@@ -211,7 +211,111 @@
       'privacy-p-10': 'We may update this Privacy Policy from time to time to reflect changes to the Site or legal requirements. The latest update date will always be shown at the top of this page.',
 
       'privacy-h-11': 'Contact',
-      'privacy-p-11-intro': 'If you have any questions regarding this Privacy Policy, please contact us through:'
+      'privacy-p-11-intro': 'If you have any questions regarding this Privacy Policy, please contact us through:',
+
+      /* ================= BLOG 2: THE CHILD KIDNAPPER SOUND DESIGN ================= */
+      'blog2-copy-link':   'Copy Link',
+      'blog2-title':       'It Can Be Scary Without a Ghost? Discover the Sound Techniques Behind The Child Kidnapper',
+      'blog2-lead':        'Imagine you\u2019re alone in your room. The lights are dim, your headphones are on, and suddenly you hear a voice whispering, \u201cJaka... Jaka...\u201d from somewhere. You immediately look around. Nobody\u2019s there. A few seconds later, you hear footsteps coming from outside the room. But nothing unusual is happening on the screen.',
+      'blog2-date':        'Updated December 24, 2025',
+      'blog2-read-time':   '6 min read',
+      'blog2-toc-title':   'Table of Contents',
+
+      'blog2-p-intro': 'This is where horror sound design starts to do its job. Sometimes, a sound that does not even show you a monster can make you more nervous than suddenly seeing one right in front of you. In psychological horror, sound is not just something added to the visuals. It can make us imagine things that we cannot actually see. This idea can also be seen in <em>The Child Kidnapper</em>. Jaka is initially playing a game in his room when he hears a mysterious whisper. Then the lights suddenly go out, and Wewe Gombel appears from the computer screen.',
+
+      'blog2-h-1': 'Why Can Sound Be Scarier Than a Jumpscare?',
+      'blog2-p1-1': 'Jumpscares are definitely effective. A scary face suddenly appears on the screen, followed by a loud sound, and the first reaction is usually something like, \u201cOH, COME ON!\u201d This happens because of something called the <em>startle reflex</em>. It is simply the body\u2019s automatic reaction when something suddenly surprises us. In horror movies and games, a sudden loud sound is often used to make that reaction even stronger.',
+      'blog2-p1-2': 'The problem is that a jumpscare usually gives us a quick scare. Once the monster appears, we immediately know where the threat is. \u201cOh... so that\u2019s what was there.\u201d Sound design can work in a different way. A sound can give us only part of the information. We hear something, but we do not know where it came from or what caused it. So our brain starts trying to figure it out. And honestly, our imagination can sometimes come up with something much scarier than the actual monster.',
+
+      'blog2-h-2': 'Silence Isn\u2019t Empty. It\u2019s a Weapon.',
+      'blog2-p2-1': 'One of the most important parts of horror sound design is silence. When a scene that was full of sound suddenly becomes quiet, we naturally start paying more attention. A small sound like dripping water, leaves moving, someone\u2019s breathing, or a creaking floor can suddenly feel much louder.',
+      'blog2-p2-2': 'In horror, background sounds, music, sound effects, and even silence can help create tension. Think about Jaka and Adit walking through the forest. They are already nervous, and then footsteps start getting closer. Jaka even hides behind some bushes because he thinks something is coming. Visually, we do not even need to see Wewe Gombel yet. Just give the player the sound of footsteps.',
+      'blog2-quote-1': 'Thump... thump... thump...<br>Getting closer.<br>Thump... thump... thump...<br>Then...<br>Nothing.',
+      'blog2-p2-3': 'That moment of \u201cnothing\u201d is where the brain starts doing the work. \u201cWhere did the footsteps go?\u201d \u201cIs something still there?\u201d \u201cIs it behind me?\u201d Suddenly, the player is creating their own horror in their head.',
+
+      'blog2-h-3': 'The Scariest Things Are Sometimes the Things We Can\u2019t See',
+      'blog2-p3-1': 'Psychological horror often takes advantage of something very simple: people become uncomfortable when they cannot understand or predict what is happening. That is why sounds like whispers, breathing, footsteps, something moving nearby, a branch breaking, or a noise coming from far away can be so effective. We hear something, but we do not get to see its source.',
+      'blog2-p3-2': 'In <em>The Child Kidnapper</em>, this happens from the very beginning. Jaka hears a mysterious voice calling his name. Then the lights go out. He looks around, but there is nobody there. Imagine the sound design going something like this: PC sounds &rarr; quiet room ambience &rarr; electrical noise &rarr; silence &rarr; a very soft whisper &rarr; silence again &rarr; the lights suddenly go out.',
+      'blog2-p3-3': 'No jumpscare needed yet. The player is already thinking, \u201cWhere did that voice come from?\u201d And as long as that question has no answer, the fear can stay.',
+
+      'blog2-h-4': 'Loud Doesn\u2019t Always Mean Scary',
+      'blog2-p4-1': 'A common mistake in horror is thinking that louder sounds automatically make something scarier. But if everything is loud from beginning to end, our ears will eventually get used to it.',
+      'blog2-p4-2': 'Good sound design needs contrast. A quiet sound can make a loud sound feel much stronger. Silence can make a tiny noise feel important. Even calm music can make a sudden change feel much more intense. So horror sound design is not simply about making scary noises. It is about choosing the right sound, the right volume, and the right moment. Sometimes, making a sound quieter can actually make the scene scarier.',
+
+      'blog2-h-5': 'From Whispers to Screams: The Sound of <em>The Child Kidnapper</em>',
+      'blog2-p5-1': 'If we apply these ideas to <em>The Child Kidnapper</em>, each location can have its own sound. In Jaka\u2019s room, we could hear the computer, a fan, keyboard sounds, and the quiet atmosphere of the room. When the mysterious whisper appears, those background sounds can slowly become quieter, making the whisper stand out.',
+      'blog2-p5-2': 'When the story moves into the forest, the sounds change. Wind, leaves, insects, footsteps, and distant noises become part of the experience. Even Wewe Gombel does not always need to make a clear or recognizable sound. A strange sound coming from somewhere in the distance can be enough to make the player feel that something is nearby.',
+      'blog2-p5-3': 'The same idea appears near the end, when Jaka, Adit, and Desi try to escape. They hear footsteps and frightening sounds behind them before eventually leaving Desi behind. Wewe Gombel then appears behind Desi, and the scene cuts to black.',
+      'blog2-p5-4': 'The monster is gone from the screen. There is no visual. There is only Desi\u2019s scream: \u201cHELP!!!\u201d Then... silence.',
+      'blog2-p5-5': 'Sometimes, what we cannot see can be much more disturbing than what is right in front of us.',
+
+      'blog2-h-6': 'So, Which One Is Scarier?',
+      'blog2-p6-1': 'Jumpscares and sound design are not really enemies. In fact, they work well together. A jumpscare can use sound to make the surprise stronger, while sound design can build the atmosphere and tension before the jumpscare even happens.',
+      'blog2-p6-2': 'The difference is simple. A jumpscare makes us suddenly startle, while horror sound design can make us feel nervous while waiting for something to happen. We hear something, but we do not know what it is or where it came from. That uncertainty keeps our minds working and makes us imagine all kinds of possibilities.',
+      'blog2-p6-3': 'This is also what happens in <em>The Child Kidnapper</em>. Wewe Gombel does not always need to appear immediately. Her presence can first be suggested through whispers, footsteps, and the sounds of the environment. Sound is not just something that supports the visuals. It can become part of the horror itself.',
+      'blog2-quote-2': 'Because sometimes, a small sound coming from the darkness can be much scarier than a monster standing right in front of you.',
+
+      'blog2-h-7': 'Dare to Listen?',
+      'blog2-p7-1': 'Want to find out how scary an unseen sound can really be? Put on your headphones, turn off the lights, and imagine that you\u2019re alone in the middle of a dark forest. Now listen carefully.',
+      'blog2-p7-2': 'You hear footsteps behind you... Getting closer... Closer... But whatever you do... Don\u2019t turn around.',
+      'blog2-p7-3': 'Experience the sound. Feel the fear. Download <em>The Child Kidnapper</em> now on Game Jolt and experience the horror for yourself.',
+
+      'blog2-sources-label': 'References &amp; Sources',
+      'blog2-tag-1': 'Sound Design',
+      'blog2-tag-2': 'Psychological Horror',
+      'blog2-author-desc': 'An indie home studio focused on bringing local culture, myths, folklore, and urban legends into psychological horror games.',
+
+      /* ================= BLOG 1: DEVLOG (SOUND DESIGN) ================= */
+      'blog1-copy-link':   'Copy Link',
+      'blog1-title':       'It Can Be Scary Without a Ghost? Discover the Sound Techniques Behind The Child Kidnapper',
+      'blog1-lead':        'Imagine you\u2019re alone in your room. The lights are dim, your headphones are on, and suddenly you hear a voice whispering, \u201cJaka... Jaka...\u201d from somewhere. You immediately look around. Nobody\u2019s there. A few seconds later, you hear footsteps coming from outside the room. But nothing unusual is happening on the screen.',
+      'blog1-date':        'Updated December 24, 2025',
+      'blog1-read-time':   '6 min read',
+      'blog1-toc-title':   'Table of Contents',
+
+      'blog1-p-intro': 'This is where horror sound design starts to do its job. Sometimes, a sound that does not even show you a monster can make you more nervous than suddenly seeing one right in front of you. In psychological horror, sound is not just something added to the visuals. It can make us imagine things that we cannot actually see. This idea can also be seen in <em>The Child Kidnapper</em>. Jaka is initially playing a game in his room when he hears a mysterious whisper. Then the lights suddenly go out, and Wewe Gombel appears from the computer screen.',
+
+      'blog1-h-1': 'Why Can Sound Be Scarier Than a Jumpscare?',
+      'blog1-p1-1': 'Jumpscares are definitely effective. A scary face suddenly appears on the screen, followed by a loud sound, and the first reaction is usually something like, \u201cOH, COME ON!\u201d This happens because of something called the <em>startle reflex</em>. It is simply the body\u2019s automatic reaction when something suddenly surprises us. In horror movies and games, a sudden loud sound is often used to make that reaction even stronger.',
+      'blog1-p1-2': 'The problem is that a jumpscare usually gives us a quick scare. Once the monster appears, we immediately know where the threat is. \u201cOh... so that\u2019s what was there.\u201d Sound design can work in a different way. A sound can give us only part of the information. We hear something, but we do not know where it came from or what caused it. So our brain starts trying to figure it out. And honestly, our imagination can sometimes come up with something much scarier than the actual monster.',
+
+      'blog1-h-2': 'Silence Isn\u2019t Empty. It\u2019s a Weapon.',
+      'blog1-p2-1': 'One of the most important parts of horror sound design is silence. When a scene that was full of sound suddenly becomes quiet, we naturally start paying more attention. A small sound like dripping water, leaves moving, someone\u2019s breathing, or a creaking floor can suddenly feel much louder.',
+      'blog1-p2-2': 'In horror, background sounds, music, sound effects, and even silence can help create tension. Think about Jaka and Adit walking through the forest. They are already nervous, and then footsteps start getting closer. Jaka even hides behind some bushes because he thinks something is coming. Visually, we do not even need to see Wewe Gombel yet. Just give the player the sound of footsteps.',
+      'blog1-quote-1': 'Thump... thump... thump...<br>Getting closer.<br>Thump... thump... thump...<br>Then...<br>Nothing.',
+      'blog1-p2-3': 'That moment of \u201cnothing\u201d is where the brain starts doing the work. \u201cWhere did the footsteps go?\u201d \u201cIs something still there?\u201d \u201cIs it behind me?\u201d Suddenly, the player is creating their own horror in their head.',
+
+      'blog1-h-3': 'The Scariest Things Are Sometimes the Things We Can\u2019t See',
+      'blog1-p3-1': 'Psychological horror often takes advantage of something very simple: people become uncomfortable when they cannot understand or predict what is happening. That is why sounds like whispers, breathing, footsteps, something moving nearby, a branch breaking, or a noise coming from far away can be so effective. We hear something, but we do not get to see its source.',
+      'blog1-p3-2': 'In <em>The Child Kidnapper</em>, this happens from the very beginning. Jaka hears a mysterious voice calling his name. Then the lights go out. He looks around, but there is nobody there. Imagine the sound design going something like this: PC sounds &rarr; quiet room ambience &rarr; electrical noise &rarr; silence &rarr; a very soft whisper &rarr; silence again &rarr; the lights suddenly go out.',
+      'blog1-p3-3': 'No jumpscare needed yet. The player is already thinking, \u201cWhere did that voice come from?\u201d And as long as that question has no answer, the fear can stay.',
+
+      'blog1-h-4': 'Loud Doesn\u2019t Always Mean Scary',
+      'blog1-p4-1': 'A common mistake in horror is thinking that louder sounds automatically make something scarier. But if everything is loud from beginning to end, our ears will eventually get used to it.',
+      'blog1-p4-2': 'Good sound design needs contrast. A quiet sound can make a loud sound feel much stronger. Silence can make a tiny noise feel important. Even calm music can make a sudden change feel much more intense. So horror sound design is not simply about making scary noises. It is about choosing the right sound, the right volume, and the right moment. Sometimes, making a sound quieter can actually make the scene scarier.',
+
+      'blog1-h-5': 'From Whispers to Screams: The Sound of <em>The Child Kidnapper</em>',
+      'blog1-p5-1': 'If we apply these ideas to <em>The Child Kidnapper</em>, each location can have its own sound. In Jaka\u2019s room, we could hear the computer, a fan, keyboard sounds, and the quiet atmosphere of the room. When the mysterious whisper appears, those background sounds can slowly become quieter, making the whisper stand out.',
+      'blog1-p5-2': 'When the story moves into the forest, the sounds change. Wind, leaves, insects, footsteps, and distant noises become part of the experience. Even Wewe Gombel does not always need to make a clear or recognizable sound. A strange sound coming from somewhere in the distance can be enough to make the player feel that something is nearby.',
+      'blog1-p5-3': 'The same idea appears near the end, when Jaka, Adit, and Desi try to escape. They hear footsteps and frightening sounds behind them before eventually leaving Desi behind. Wewe Gombel then appears behind Desi, and the scene cuts to black.',
+      'blog1-p5-4': 'The monster is gone from the screen. There is no visual. There is only Desi\u2019s scream: \u201cHELP!!!\u201d Then... silence.',
+      'blog1-p5-5': 'Sometimes, what we cannot see can be much more disturbing than what is right in front of us.',
+
+      'blog1-h-6': 'So, Which One Is Scarier?',
+      'blog1-p6-1': 'Jumpscares and sound design are not really enemies. In fact, they work well together. A jumpscare can use sound to make the surprise stronger, while sound design can build the atmosphere and tension before the jumpscare even happens.',
+      'blog1-p6-2': 'The difference is simple. A jumpscare makes us suddenly startle, while horror sound design can make us feel nervous while waiting for something to happen. We hear something, but we do not know what it is or where it came from. That uncertainty keeps our minds working and makes us imagine all kinds of possibilities.',
+      'blog1-p6-3': 'This is also what happens in <em>The Child Kidnapper</em>. Wewe Gombel does not always need to appear immediately. Her presence can first be suggested through whispers, footsteps, and the sounds of the environment. Sound is not just something that supports the visuals. It can become part of the horror itself.',
+      'blog1-quote-2': 'Because sometimes, a small sound coming from the darkness can be much scarier than a monster standing right in front of you.',
+
+      'blog1-h-7': 'Dare to Listen?',
+      'blog1-p7-1': 'Want to find out how scary an unseen sound can really be? Put on your headphones, turn off the lights, and imagine that you\u2019re alone in the middle of a dark forest. Now listen carefully.',
+      'blog1-p7-2': 'You hear footsteps behind you... Getting closer... Closer... But whatever you do... Don\u2019t turn around.',
+      'blog1-p7-3': 'Experience the sound. Feel the fear. Download <em>The Child Kidnapper</em> now on Game Jolt and experience the horror for yourself.',
+
+      'blog1-sources-label': 'References &amp; Sources',
+      'blog1-tag-1': 'Sound Design',
+      'blog1-tag-2': 'Psychological Horror',
+      'blog1-author-desc': 'An indie home studio focused on bringing local culture, myths, folklore, and urban legends into psychological horror games.'
     },
     id: {
       'nav-home':        'Beranda',
@@ -417,7 +521,111 @@
       'privacy-p-10': 'Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu untuk mencerminkan perubahan pada Situs atau persyaratan hukum. Tanggal pembaruan terbaru akan selalu tercantum di bagian atas halaman ini.',
 
       'privacy-h-11': 'Kontak',
-      'privacy-p-11-intro': 'Jika Anda memiliki pertanyaan terkait Kebijakan Privasi ini, silakan hubungi kami melalui:'
+      'privacy-p-11-intro': 'Jika Anda memiliki pertanyaan terkait Kebijakan Privasi ini, silakan hubungi kami melalui:',
+
+      /* ================= BLOG 2: SOUND DESIGN THE CHILD KIDNAPPER ================= */
+      'blog2-copy-link':   'Salin Link',
+      'blog2-title':       'Bisa Seram Tanpa Hantu yang Kelihatan? Intip Teknik Suara di Balik The Child Kidnapper',
+      'blog2-lead':        'Bayangkan kamu sendirian di kamar. Lampu redup, headphone terpasang, dan tiba-tiba kamu dengar bisikan, "Jaka... Jaka..." dari suatu tempat. Kamu langsung menoleh ke sekeliling. Tidak ada siapa-siapa. Beberapa detik kemudian, terdengar suara langkah kaki dari luar kamar. Tapi di layar, tidak ada satu pun hal aneh yang terjadi.',
+      'blog2-date':        'Diperbarui 24 Desember 2025',
+      'blog2-read-time':   '6 menit baca',
+      'blog2-toc-title':   'Daftar Isi',
+
+      'blog2-p-intro': 'Di sinilah sound design horor mulai bekerja. Kadang, suara yang bahkan belum menampilkan monster sama sekali bisa bikin kamu lebih gelisah dibanding saat monster itu muncul tiba-tiba di depan mata. Dalam horor psikologis, suara bukan sekadar pelengkap visual. Suara bisa membuat kita membayangkan hal-hal yang sebenarnya tidak bisa kita lihat. Ide ini juga muncul di <em>The Child Kidnapper</em>. Jaka awalnya sedang bermain game di kamarnya ketika dia mendengar bisikan misterius. Lalu lampu tiba-tiba mati, dan Wewe Gombel muncul dari layar komputer.',
+
+      'blog2-h-1': 'Kenapa Suara Bisa Lebih Menyeramkan daripada Jumpscare?',
+      'blog2-p1-1': 'Jumpscare memang efektif. Wajah menyeramkan muncul tiba-tiba di layar, diikuti suara keras, dan reaksi pertama biasanya, "YA AMPUN!" Ini terjadi karena sesuatu yang disebut <em>startle reflex</em> refleks tubuh secara otomatis saat sesuatu mengejutkan kita tiba-tiba. Dalam film dan game horor, suara keras yang mendadak sering dipakai untuk memperkuat reaksi itu.',
+      'blog2-p1-2': 'Masalahnya, jumpscare biasanya cuma memberi kekagetan sesaat. Begitu monsternya muncul, kita langsung tahu di mana ancamannya berada. "Oh... jadi itu yang tadi." Sound design bisa bekerja dengan cara berbeda. Sebuah suara cuma memberi kita sebagian informasi. Kita dengar sesuatu, tapi tidak tahu dari mana asalnya atau apa penyebabnya. Jadi otak kita mulai berusaha mencari tahu. Dan jujur saja, imajinasi kita kadang bisa menciptakan sesuatu yang jauh lebih menyeramkan dibanding monster aslinya.',
+
+      'blog2-h-2': 'Keheningan Itu Bukan Kekosongan. Itu Senjata.',
+      'blog2-p2-1': 'Salah satu bagian terpenting dari sound design horor adalah keheningan. Saat sebuah adegan yang tadinya penuh suara tiba-tiba jadi sunyi, kita secara alami jadi lebih memperhatikan. Suara kecil seperti tetesan air, dedaunan bergerak, napas seseorang, atau lantai berderit bisa tiba-tiba terasa jauh lebih keras.',
+      'blog2-p2-2': 'Dalam horor, suara latar, musik, efek suara, bahkan keheningan bisa membangun ketegangan. Bayangkan Jaka dan Adit berjalan di hutan. Mereka sudah gugup, lalu suara langkah kaki mulai mendekat. Jaka bahkan bersembunyi di balik semak karena mengira ada sesuatu yang datang. Secara visual, kita bahkan belum perlu memperlihatkan Wewe Gombel. Cukup berikan pemain suara langkah kaki.',
+      'blog2-quote-1': 'Dug... dug... dug...<br>Makin dekat.<br>Dug... dug... dug...<br>Lalu...<br>Hening.',
+      'blog2-p2-3': 'Momen "hening" itulah yang bikin otak mulai bekerja. "Ke mana suara langkahnya?" "Masih ada sesuatu di sana?" "Jangan-jangan di belakangku?" Pemain pun mulai menciptakan horornya sendiri di kepala.',
+
+      'blog2-h-3': 'Hal yang Paling Menyeramkan Kadang Justru yang Tidak Bisa Kita Lihat',
+      'blog2-p3-1': 'Horor psikologis sering memanfaatkan satu hal sederhana: orang jadi tidak nyaman ketika mereka tidak bisa memahami atau memprediksi apa yang sedang terjadi. Itu sebabnya suara seperti bisikan, napas, langkah kaki, sesuatu yang bergerak di dekat kita, ranting patah, atau suara dari kejauhan bisa sangat efektif. Kita dengar sesuatu, tapi tidak melihat sumbernya.',
+      'blog2-p3-2': 'Di <em>The Child Kidnapper</em>, ini terjadi sejak awal. Jaka mendengar suara misterius memanggil namanya. Lalu lampu padam. Dia menoleh ke sekeliling, tapi tidak ada siapa-siapa. Bayangkan alur sound design-nya kira-kira begini: suara PC &rarr; suasana kamar yang sunyi &rarr; suara listrik yang aneh &rarr; hening &rarr; bisikan sangat pelan &rarr; hening lagi &rarr; lampu tiba-tiba mati.',
+      'blog2-p3-3': 'Belum perlu jumpscare sama sekali. Pemain sudah bertanya-tanya, "Dari mana suara itu tadi?" Dan selama pertanyaan itu belum terjawab, rasa takut itu akan terus bertahan.',
+
+      'blog2-h-4': 'Keras Tidak Selalu Berarti Menyeramkan',
+      'blog2-p4-1': 'Kesalahan umum dalam horor adalah menganggap suara yang lebih keras otomatis lebih menyeramkan. Padahal kalau semuanya keras dari awal sampai akhir, telinga kita akan terbiasa dengan sendirinya.',
+      'blog2-p4-2': 'Sound design yang bagus butuh kontras. Suara pelan bisa membuat suara keras terasa jauh lebih kuat. Keheningan bisa membuat suara kecil terasa penting. Bahkan musik yang tenang bisa membuat perubahan mendadak terasa jauh lebih intens. Jadi sound design horor bukan sekadar soal membuat suara-suara menyeramkan. Ini soal memilih suara yang tepat, volume yang tepat, dan momen yang tepat. Kadang, membuat suara jadi lebih pelan justru bisa membuat adegan lebih menyeramkan.',
+
+      'blog2-h-5': 'Dari Bisikan Sampai Teriakan: Suara di <em>The Child Kidnapper</em>',
+      'blog2-p5-1': 'Kalau ide-ide ini diterapkan ke <em>The Child Kidnapper</em>, tiap lokasi bisa punya suaranya sendiri. Di kamar Jaka, kita bisa dengar suara komputer, kipas angin, suara keyboard, dan suasana kamar yang tenang. Saat bisikan misterius muncul, suara-suara latar itu bisa perlahan mengecil, supaya bisikannya lebih menonjol.',
+      'blog2-p5-2': 'Saat cerita berpindah ke hutan, suasananya berubah. Angin, dedaunan, serangga, langkah kaki, dan suara-suara dari kejauhan jadi bagian dari pengalaman. Wewe Gombel sendiri tidak selalu perlu mengeluarkan suara yang jelas atau mudah dikenali. Suara aneh dari kejauhan saja sudah cukup untuk membuat pemain merasa ada sesuatu di dekatnya.',
+      'blog2-p5-3': 'Ide yang sama muncul lagi menjelang akhir, saat Jaka, Adit, dan Desi berusaha melarikan diri. Mereka mendengar langkah kaki dan suara-suara menakutkan di belakang sebelum akhirnya meninggalkan Desi. Wewe Gombel kemudian muncul di belakang Desi, dan adegan langsung memotong ke layar hitam.',
+      'blog2-p5-4': 'Monsternya hilang dari layar. Tidak ada visual sama sekali. Yang ada hanya teriakan Desi: "TOLONG!!!" Lalu... hening.',
+      'blog2-p5-5': 'Kadang, hal yang tidak bisa kita lihat justru jauh lebih mengganggu dibanding sesuatu yang ada tepat di depan mata.',
+
+      'blog2-h-6': 'Jadi, Mana yang Lebih Menyeramkan?',
+      'blog2-p6-1': 'Jumpscare dan sound design sebenarnya bukan musuh. Justru keduanya bekerja dengan baik bersama-sama. Jumpscare bisa memakai suara untuk memperkuat efek kagetnya, sementara sound design membangun atmosfer dan ketegangan sebelum jumpscare itu terjadi.',
+      'blog2-p6-2': 'Bedanya sederhana. Jumpscare membuat kita kaget secara tiba-tiba, sementara sound design horor bisa membuat kita gelisah sambil menunggu sesuatu terjadi. Kita dengar sesuatu, tapi tidak tahu apa itu atau dari mana asalnya. Ketidakpastian itu membuat pikiran kita terus bekerja dan membayangkan segala kemungkinan.',
+      'blog2-p6-3': 'Ini juga yang terjadi di <em>The Child Kidnapper</em>. Wewe Gombel tidak selalu harus langsung muncul. Kehadirannya bisa lebih dulu diisyaratkan lewat bisikan, langkah kaki, dan suara-suara lingkungan sekitar. Suara bukan cuma pendukung visual ia bisa jadi bagian dari horornya sendiri.',
+      'blog2-quote-2': 'Karena kadang, suara kecil dari kegelapan bisa jauh lebih menyeramkan dibanding monster yang berdiri tepat di depanmu.',
+
+      'blog2-h-7': 'Berani Dengar?',
+      'blog2-p7-1': 'Penasaran seberapa menyeramkan suara yang tidak terlihat itu? Pakai headphone, matikan lampu, dan bayangkan kamu sendirian di tengah hutan yang gelap. Sekarang, dengarkan baik-baik.',
+      'blog2-p7-2': 'Kamu dengar langkah kaki di belakangmu... Makin dekat... Makin dekat... Tapi apa pun yang terjadi... Jangan menoleh ke belakang.',
+      'blog2-p7-3': 'Rasakan suaranya. Rasakan takutnya. Unduh <em>The Child Kidnapper</em> sekarang di Game Jolt dan rasakan sendiri horornya.',
+
+      'blog2-sources-label': 'Referensi dan Sumber',
+      'blog2-tag-1': 'Desain Suara',
+      'blog2-tag-2': 'Horor Psikologis',
+      'blog2-author-desc': 'Studio game indie rumahan yang fokus mengangkat budaya, mitos, cerita rakyat, dan urban legend lokal ke dalam game horor psikologis.',
+
+      /* ================= BLOG 1: DEVLOG (SOUND DESIGN) ================= */
+      'blog1-copy-link':   'Salin Link',
+      'blog1-title':       'Bisa Seram Tanpa Hantu yang Kelihatan? Intip Teknik Suara di Balik The Child Kidnapper',
+      'blog1-lead':        'Bayangkan kamu sendirian di kamar. Lampu redup, headphone terpasang, dan tiba-tiba kamu dengar bisikan, "Jaka... Jaka..." dari suatu tempat. Kamu langsung menoleh ke sekeliling. Tidak ada siapa-siapa. Beberapa detik kemudian, terdengar suara langkah kaki dari luar kamar. Tapi di layar, tidak ada satu pun hal aneh yang terjadi.',
+      'blog1-date':        'Diperbarui 24 Desember 2025',
+      'blog1-read-time':   '6 menit baca',
+      'blog1-toc-title':   'Daftar Isi',
+
+      'blog1-p-intro': 'Di sinilah sound design horor mulai bekerja. Kadang, suara yang bahkan belum menampilkan monster sama sekali bisa bikin kamu lebih gelisah dibanding saat monster itu muncul tiba-tiba di depan mata. Dalam horor psikologis, suara bukan sekadar pelengkap visual. Suara bisa membuat kita membayangkan hal-hal yang sebenarnya tidak bisa kita lihat. Ide ini juga muncul di <em>The Child Kidnapper</em>. Jaka awalnya sedang bermain game di kamarnya ketika dia mendengar bisikan misterius. Lalu lampu tiba-tiba mati, dan Wewe Gombel muncul dari layar komputer.',
+
+      'blog1-h-1': 'Kenapa Suara Bisa Lebih Menyeramkan daripada Jumpscare?',
+      'blog1-p1-1': 'Jumpscare memang efektif. Wajah menyeramkan muncul tiba-tiba di layar, diikuti suara keras, dan reaksi pertama biasanya, "YA AMPUN!" Ini terjadi karena sesuatu yang disebut <em>startle reflex</em> refleks tubuh secara otomatis saat sesuatu mengejutkan kita tiba-tiba. Dalam film dan game horor, suara keras yang mendadak sering dipakai untuk memperkuat reaksi itu.',
+      'blog1-p1-2': 'Masalahnya, jumpscare biasanya cuma memberi kekagetan sesaat. Begitu monsternya muncul, kita langsung tahu di mana ancamannya berada. "Oh... jadi itu yang tadi." Sound design bisa bekerja dengan cara berbeda. Sebuah suara cuma memberi kita sebagian informasi. Kita dengar sesuatu, tapi tidak tahu dari mana asalnya atau apa penyebabnya. Jadi otak kita mulai berusaha mencari tahu. Dan jujur saja, imajinasi kita kadang bisa menciptakan sesuatu yang jauh lebih menyeramkan dibanding monster aslinya.',
+
+      'blog1-h-2': 'Keheningan Itu Bukan Kekosongan. Itu Senjata.',
+      'blog1-p2-1': 'Salah satu bagian terpenting dari sound design horor adalah keheningan. Saat sebuah adegan yang tadinya penuh suara tiba-tiba jadi sunyi, kita secara alami jadi lebih memperhatikan. Suara kecil seperti tetesan air, dedaunan bergerak, napas seseorang, atau lantai berderit bisa tiba-tiba terasa jauh lebih keras.',
+      'blog1-p2-2': 'Dalam horor, suara latar, musik, efek suara, bahkan keheningan bisa membangun ketegangan. Bayangkan Jaka dan Adit berjalan di hutan. Mereka sudah gugup, lalu suara langkah kaki mulai mendekat. Jaka bahkan bersembunyi di balik semak karena mengira ada sesuatu yang datang. Secara visual, kita bahkan belum perlu memperlihatkan Wewe Gombel. Cukup berikan pemain suara langkah kaki.',
+      'blog1-quote-1': 'Dug... dug... dug...<br>Makin dekat.<br>Dug... dug... dug...<br>Lalu...<br>Hening.',
+      'blog1-p2-3': 'Momen "hening" itulah yang bikin otak mulai bekerja. "Ke mana suara langkahnya?" "Masih ada sesuatu di sana?" "Jangan-jangan di belakangku?" Pemain pun mulai menciptakan horornya sendiri di kepala.',
+
+      'blog1-h-3': 'Hal yang Paling Menyeramkan Kadang Justru yang Tidak Bisa Kita Lihat',
+      'blog1-p3-1': 'Horor psikologis sering memanfaatkan satu hal sederhana: orang jadi tidak nyaman ketika mereka tidak bisa memahami atau memprediksi apa yang sedang terjadi. Itu sebabnya suara seperti bisikan, napas, langkah kaki, sesuatu yang bergerak di dekat kita, ranting patah, atau suara dari kejauhan bisa sangat efektif. Kita dengar sesuatu, tapi tidak melihat sumbernya.',
+      'blog1-p3-2': 'Di <em>The Child Kidnapper</em>, ini terjadi sejak awal. Jaka mendengar suara misterius memanggil namanya. Lalu lampu padam. Dia menoleh ke sekeliling, tapi tidak ada siapa-siapa. Bayangkan alur sound design-nya kira-kira begini: suara PC &rarr; suasana kamar yang sunyi &rarr; suara listrik yang aneh &rarr; hening &rarr; bisikan sangat pelan &rarr; hening lagi &rarr; lampu tiba-tiba mati.',
+      'blog1-p3-3': 'Belum perlu jumpscare sama sekali. Pemain sudah bertanya-tanya, "Dari mana suara itu tadi?" Dan selama pertanyaan itu belum terjawab, rasa takut itu akan terus bertahan.',
+
+      'blog1-h-4': 'Keras Tidak Selalu Berarti Menyeramkan',
+      'blog1-p4-1': 'Kesalahan umum dalam horor adalah menganggap suara yang lebih keras otomatis lebih menyeramkan. Padahal kalau semuanya keras dari awal sampai akhir, telinga kita akan terbiasa dengan sendirinya.',
+      'blog1-p4-2': 'Sound design yang bagus butuh kontras. Suara pelan bisa membuat suara keras terasa jauh lebih kuat. Keheningan bisa membuat suara kecil terasa penting. Bahkan musik yang tenang bisa membuat perubahan mendadak terasa jauh lebih intens. Jadi sound design horor bukan sekadar soal membuat suara-suara menyeramkan. Ini soal memilih suara yang tepat, volume yang tepat, dan momen yang tepat. Kadang, membuat suara jadi lebih pelan justru bisa membuat adegan lebih menyeramkan.',
+
+      'blog1-h-5': 'Dari Bisikan Sampai Teriakan: Suara di <em>The Child Kidnapper</em>',
+      'blog1-p5-1': 'Kalau ide-ide ini diterapkan ke <em>The Child Kidnapper</em>, tiap lokasi bisa punya suaranya sendiri. Di kamar Jaka, kita bisa dengar suara komputer, kipas angin, suara keyboard, dan suasana kamar yang tenang. Saat bisikan misterius muncul, suara-suara latar itu bisa perlahan mengecil, supaya bisikannya lebih menonjol.',
+      'blog1-p5-2': 'Saat cerita berpindah ke hutan, suasananya berubah. Angin, dedaunan, serangga, langkah kaki, dan suara-suara dari kejauhan jadi bagian dari pengalaman. Wewe Gombel sendiri tidak selalu perlu mengeluarkan suara yang jelas atau mudah dikenali. Suara aneh dari kejauhan saja sudah cukup untuk membuat pemain merasa ada sesuatu di dekatnya.',
+      'blog1-p5-3': 'Ide yang sama muncul lagi menjelang akhir, saat Jaka, Adit, dan Desi berusaha melarikan diri. Mereka mendengar langkah kaki dan suara-suara menakutkan di belakang sebelum akhirnya meninggalkan Desi. Wewe Gombel kemudian muncul di belakang Desi, dan adegan langsung memotong ke layar hitam.',
+      'blog1-p5-4': 'Monsternya hilang dari layar. Tidak ada visual sama sekali. Yang ada hanya teriakan Desi: "TOLONG!!!" Lalu... hening.',
+      'blog1-p5-5': 'Kadang, hal yang tidak bisa kita lihat justru jauh lebih mengganggu dibanding sesuatu yang ada tepat di depan mata.',
+
+      'blog1-h-6': 'Jadi, Mana yang Lebih Menyeramkan?',
+      'blog1-p6-1': 'Jumpscare dan sound design sebenarnya bukan musuh. Justru keduanya bekerja dengan baik bersama-sama. Jumpscare bisa memakai suara untuk memperkuat efek kagetnya, sementara sound design membangun atmosfer dan ketegangan sebelum jumpscare itu terjadi.',
+      'blog1-p6-2': 'Bedanya sederhana. Jumpscare membuat kita kaget secara tiba-tiba, sementara sound design horor bisa membuat kita gelisah sambil menunggu sesuatu terjadi. Kita dengar sesuatu, tapi tidak tahu apa itu atau dari mana asalnya. Ketidakpastian itu membuat pikiran kita terus bekerja dan membayangkan segala kemungkinan.',
+      'blog1-p6-3': 'Ini juga yang terjadi di <em>The Child Kidnapper</em>. Wewe Gombel tidak selalu harus langsung muncul. Kehadirannya bisa lebih dulu diisyaratkan lewat bisikan, langkah kaki, dan suara-suara lingkungan sekitar. Suara bukan cuma pendukung visual ia bisa jadi bagian dari horornya sendiri.',
+      'blog1-quote-2': 'Karena kadang, suara kecil dari kegelapan bisa jauh lebih menyeramkan dibanding monster yang berdiri tepat di depanmu.',
+
+      'blog1-h-7': 'Berani Dengar?',
+      'blog1-p7-1': 'Penasaran seberapa menyeramkan suara yang tidak terlihat itu? Pakai headphone, matikan lampu, dan bayangkan kamu sendirian di tengah hutan yang gelap. Sekarang, dengarkan baik-baik.',
+      'blog1-p7-2': 'Kamu dengar langkah kaki di belakangmu... Makin dekat... Makin dekat... Tapi apa pun yang terjadi... Jangan menoleh ke belakang.',
+      'blog1-p7-3': 'Rasakan suaranya. Rasakan takutnya. Unduh <em>The Child Kidnapper</em> sekarang di Game Jolt dan rasakan sendiri horornya.',
+
+      'blog1-sources-label': 'Referensi dan Sumber',
+      'blog1-tag-1': 'Desain Suara',
+      'blog1-tag-2': 'Horor Psikologis',
+      'blog1-author-desc': 'Studio game indie rumahan yang fokus mengangkat budaya, mitos, cerita rakyat, dan urban legend lokal ke dalam game horor psikologis.'
     }
   };
 

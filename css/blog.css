@@ -167,6 +167,11 @@
 .meta-divider { width: 1px; height: 28px; background: rgba(255,255,255,.15); }
 .read-time { color: rgba(255,255,255,.6); font-size: .85rem; }
 
+.article-figure {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .article-hero {
   width: 100%;
   border-radius: 10px;

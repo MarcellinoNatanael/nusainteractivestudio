@@ -217,7 +217,7 @@
       'blog2-copy-link':   'Copy Link',
       'blog2-title':       'How can sound increase tension and fear more effectively than jump scares? Listen to the explanation!',
       'blog2-lead':        'Imagine you\u2019re alone in your room. The lights are dim, your headphones are on, and suddenly you hear a voice whispering, \u201cJaka... Jaka...\u201d from somewhere. You immediately look around. Nobody\u2019s there. A few seconds later, you hear footsteps coming from outside the room. But nothing unusual is happening on the screen.',
-      'blog2-date':        'Updated December 24, 2025',
+      'blog2-date':        'Updated September 27, 2026',
       'blog2-read-time':   '6 min read',
       'blog2-toc-title':   'Table of Contents',
 
@@ -267,9 +267,9 @@
 
       /* ================= BLOG 1: DEVLOG (SOUND DESIGN) ================= */
       'blog1-copy-link':   'Copy Link',
-      'blog1-title':       'It Can Be Scary Without a Ghost? Discover the Sound Techniques Behind The Child Kidnapper',
+      'blog1-title':       'How Can Sound Build Tension and Fear More Effectively Than a Jumpscare? Here\u2019s the Breakdown!',
       'blog1-lead':        'Imagine you\u2019re alone in your room. The lights are dim, your headphones are on, and suddenly you hear a voice whispering, \u201cJaka... Jaka...\u201d from somewhere. You immediately look around. Nobody\u2019s there. A few seconds later, you hear footsteps coming from outside the room. But nothing unusual is happening on the screen.',
-      'blog1-date':        'Updated December 24, 2025',
+      'blog1-date':        'Updated September 27, 2026',
       'blog1-read-time':   '6 min read',
       'blog1-toc-title':   'Table of Contents',
 
@@ -527,7 +527,7 @@
       'blog2-copy-link':   'Salin Link',
       'blog2-title':       'Bagaimana suara dapat meningkatkan ketegangan dan ketakutan dengan lebih efektif dibandingkan jumpscare? Simak penjelasannya!',
       'blog2-lead':        'Bayangkan kamu sendirian di kamar. Lampu redup, headphone terpasang, dan tiba-tiba kamu dengar bisikan, "Jaka... Jaka..." dari suatu tempat. Kamu langsung menoleh ke sekeliling. Tidak ada siapa-siapa. Beberapa detik kemudian, terdengar suara langkah kaki dari luar kamar. Tapi di layar, tidak ada satu pun hal aneh yang terjadi.',
-      'blog2-date':        'Diperbarui 24 Desember 2025',
+      'blog2-date':        'Diperbarui 27 September 2026',
       'blog2-read-time':   '6 menit baca',
       'blog2-toc-title':   'Daftar Isi',
 
@@ -577,9 +577,9 @@
 
       /* ================= BLOG 1: DEVLOG (SOUND DESIGN) ================= */
       'blog1-copy-link':   'Salin Link',
-      'blog1-title':       'Bisa Seram Tanpa Hantu yang Kelihatan? Intip Teknik Suara di Balik The Child Kidnapper',
+      'blog1-title':       'Bagaimana Suara Dapat Meningkatkan Ketegangan dan Ketakutan dengan Lebih Efektif Dibandingkan Jumpscare? Simak Penjelasannya!',
       'blog1-lead':        'Bayangkan kamu sendirian di kamar. Lampu redup, headphone terpasang, dan tiba-tiba kamu dengar bisikan, "Jaka... Jaka..." dari suatu tempat. Kamu langsung menoleh ke sekeliling. Tidak ada siapa-siapa. Beberapa detik kemudian, terdengar suara langkah kaki dari luar kamar. Tapi di layar, tidak ada satu pun hal aneh yang terjadi.',
-      'blog1-date':        'Diperbarui 24 Desember 2025',
+      'blog1-date':        'Diperbarui 27 September 2026',
       'blog1-read-time':   '6 menit baca',
       'blog1-toc-title':   'Daftar Isi',
 
